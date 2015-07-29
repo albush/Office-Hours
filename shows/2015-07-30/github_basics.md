@@ -21,13 +21,23 @@ Recorded Live: 7-30-2015
 
 [Git](https://help.github.com/articles/github-glossary/) is an open source program for tracking changes in text files. It was written by the author of the Linux operating system, and is the core technology that GitHub, the social and user interface, is built on top of. Git is most often used to track changes in source code, but many people now use git for other uses, including co-authoring documentation, collaborating on family recipes, [posting job openings](https://github.com/rackspace/rackspace_jobs), and many more non-programming use cases.
 
+Github, created in 2008, has grown to be the largest code repository in the world. With [over 10 million users](https://github.com/about/press), and a slogan of, "Build software better, together," they have 25 million different repositories containing everything from software to cookbooks to fonts. In addition to hosting code repositories, they also run a pastebin-like service called "Gist," which allows users to share small snippets of text, track changes, and collaborate on those snippets. Practically everything on Github is social; you make comments and review code, file issues and submit changes, maintain a wiki and even integrate with external services.
+
 ### What projects work best on GitHub?
 
-- [ ] Need Content from Martin
+* What are [the most starred projects](https://github.com/search?q=stars:%3E1&s=stars&type=Repositories) on Github?
+* Collaboration with strangers
+* Highly decentralized projects or developers
+* Peer programming or code reviews
+* Almost any kind of software project
 
 ### How does Rackspace use GitHub?
 
-- [ ] Need Content from Martin
+* Internal software projects
+* Contributing to open source
+* Collaboration spaces:
+  * with customers, e.g. Rackspace's [DevOps Automation Service](rackspace.com/devops)
+  * within teams, e.g. shared documentation or standards
 
 ### Best practices
 
@@ -42,6 +52,10 @@ Recorded Live: 7-30-2015
 * [posting job openings](https://github.com/rackspace/rackspace_jobs)
 * [hosting a static site](http://blog.albush.com)
 * [collaborative writing](https://github.com/albush/Getting-Started-Guide)
+* [works of US congress](https://github.com/unitedstates/congress)
+* [project management](https://trello.com/)
+* [designing free fonts](https://github.com/larsenwork/monoid)
+* [company policy documents](https://github.com/rackspace/social_media_guidelines)
 
 ## Additional Links
 
