@@ -23,11 +23,11 @@ Recorded Live: 7-30-2015
 
 ### What projects work best on GitHub?
 
-- [] Need Content from Martin
+- [ ] Need Content from Martin
 
 ### How does Rackspace use GitHub?
 
-- [] Need Content from Martin
+- [ ] Need Content from Martin
 
 ### Best practices
 
