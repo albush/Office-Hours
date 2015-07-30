@@ -36,7 +36,7 @@ Github, created in 2008, has grown to be the largest code repository in the worl
 * Internal software projects
 * Contributing to open source
 * Collaboration spaces:
-  * with customers, e.g. Rackspace's [DevOps Automation Service](rackspace.com/devops)
+  * with customers, e.g. Rackspace's [DevOps Automation Service](http://rackspace.com/devops)
   * within teams, e.g. shared documentation or standards
 
 ### Best practices
