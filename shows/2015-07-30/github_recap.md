@@ -15,5 +15,9 @@ We invited Martin Smith, one of our DevOps engineers, to join us for the hangout
 We spent a lot of time talking about [using GitHub to automate code deployment](http://www.youtube.com/watch?v=TAObtTxBUzk&t=35m40s). Martin's role on one of our DevOps teams means he spends a lot time working with our customers to do just this. He has some great insight into how GitHub is useful to deploy code, especially how we provide a [better approach to DevOps](http://www.rackspace.com/devops).
 
 ## Full Episode
-
+[Embed the following]
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TAObtTxBUzk" frameborder="0" allowfullscreen></iframe>
+
+## Next Episode
+
+On our next episode, we're excited to interview Racker Justin Phelps, the first ever Ansible Certified Engineer. You can catch the live hangout at 1pm CDT on Thursday, August 6th. RSVP now: http://ccst.io/e/alanbush15
