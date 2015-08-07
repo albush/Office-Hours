@@ -1,3 +1,8 @@
 *.mp3
 *.mp4
 *.flac
+*.aup
+*.mov
+*.ai
+
+/admin
