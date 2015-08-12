@@ -4,5 +4,7 @@
 *.aup
 *.mov
 *.ai
+*.ogg
 
 /admin
+/analytics
