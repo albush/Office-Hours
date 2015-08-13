@@ -20,7 +20,7 @@ Recorded Live: 2015-08-13
 * Don Schenck
 * Software Developer
 * Racker for 2 year (happy Racker-versary)
-* .NET developer, very helpful in the [Rackspace Community Forums](https://community.rackspace.com)
+* Node.js, .NET developer, very helpful in the [Rackspace Community Forums](https://community.rackspace.com)
 * What is the Developer Experience Team?
 
 ### PoshStack
@@ -33,17 +33,22 @@ The goal of this project is to give complete command line access to the OpenStac
 * What other options were there before PoshStack?
 * How has PoshStack changed your workflow?
 
-### rack client
+### Experience of building an Open Source Project
+
+* Built PoshStack as an open source project, and [presented](https://github.com/DonSchenck/OMG-how-do-I-start-an-open-source-project) about that at Code on the Beach.
+* What were the experiences building an open source project?
+* What lessons did you learn?
+* What would you have done differently?
+* What tools were especially helpful?
+
+### rack cli
 
 * New command line tool for Windows, Mac, Linux.
 * Easy install, config, get to working.
 * How does rack cli differ from PoshStack? What are the intended use cases for the two?
 * This was a big collaboration for the DevEx team, who helped on this?
 
-### Code on the Beach
 
-* What is the conference?
-* How did you participate?
 
 
 ## Links
