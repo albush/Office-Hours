@@ -5,6 +5,7 @@
 *.mov
 *.ai
 *.ogg
+*.au
 
 /admin
 /analytics
