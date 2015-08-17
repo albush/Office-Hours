@@ -26,7 +26,6 @@ Recorded Live: 2015-08-13
 ### PoshStack
 
 "PoshStack is a Microsoft PowerShell v3 (or higher) client for OpenStack, built on the OpenStack.NET SDK v1.
-
 The goal of this project is to give complete command line access to the OpenStack automation environment from the Windows PowerShell client, allowing Windows system administrators, DevOps engineers and developers to easily and quickly manage and automate their work."
 
 * [Why did you create PoshStack?](https://youtu.be/u7dlGhhQ48k?t=3m29s) (3:29)
