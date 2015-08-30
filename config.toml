@@ -1,20 +1,18 @@
 theme="material-design"
-baseurl = "http://albush.github.io/Office-Hours"
+baseurl = "http://ohpodcast.com/"
 languageCode = "en-us"
 title = "Rackspace Office Hours NetCast"
 MetaDataFormat = "toml"
 paginate = 6 # To specify a multiple of 3
 # disqusShortname = "Your Disqus Name" # optional
-copyright = "© 2015 Rackspace"
+copyright = "© 2015"
 
 [params]
-  baseurl = "http://podcast.albush.com/"
-  description = "Educating and inspiring the cloud computing community."
-  twitter = "alanbush" # optional
-  github = "albush" # optional
-  # facebook = "Your facebook Name" # optional
-  gplus = "AlanBush" # optional
-  # linkedin = "adbush" # optional
+  baseurl = "http://ohpodcast.com/"
+  description = "People you can talk to... about technology."
+  twitter = "rackerhoa" # optional
+  github = "albush/Office-Hours" # optional
+  gplus = "+RackspaceHosting" # optional
   # about = "about"
   headerCover = "http://drops.albush.com/fuzzy%20banner1.jpg" # optional
   # footerCover = "http://drops.albush.com/background-cover.jpg" # optional
