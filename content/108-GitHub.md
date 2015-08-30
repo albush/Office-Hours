@@ -6,13 +6,13 @@ author = "Alan Bush"
 number = "109"
 duration = "50:01"
 length = "36,010,736"
-aac_asset_link = "http://drops.albush.com/Racker%20Spotlight%20-%20Ansible%20Certified%20Engineer%20Justin%20Phelps.mp3"
-ogg_asset_link = "http://drops.albush.com/Racker%20Spotlight%20-%20Ansible%20Certified%20Engineer%20Justin%20Phelps.ogg"
+mp3 = "http://drops.albush.com/Racker%20Spotlight%20-%20Ansible%20Certified%20Engineer%20Justin%20Phelps.mp3"
+ogg = "http://drops.albush.com/Racker%20Spotlight%20-%20Ansible%20Certified%20Engineer%20Justin%20Phelps.ogg"
 summary = "Justin Phelps is one of the first two people to earn the Ansible Certified Engineer Award. He's our guest on our Rackspace Office Hours Hangout."
 tags = [ "Ansible", "GitHub", "Static Websites", ]
 
 +++
-
+{{< audio >}}
 One of the tools we've recommended over and over on our weekly Office Hours Hangouts is GitHub - a version control system built on top of Git. We've recommended customers use GitHub, but never really taken a deep dive into GitHub, and how our customers can start using GitHub. We spent our most recent Hangout to do just that. Check out the highlights below. The entire episode is full of great information and questions from our live audience, and is embedded below. Office Hours Hangouts happen live each week at 1pm Central on our YouTube channel, and the [entire 100+ episode catalog](https://www.youtube.com/playlist?list=PLXK8KWNgW1Ms1ROsbIhOg6kJV2eOqAP3Y) can be found at YouTube, as well.
 
 ## How does GitHub Work?
