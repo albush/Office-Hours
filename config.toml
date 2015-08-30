@@ -15,7 +15,7 @@ copyright = "© 2015"
   gplus = "+RackspaceHosting" # optional
   # about = "about"
   headerCover = "http://drops.albush.com/fuzzy%20banner1.jpg" # optional
-  # footerCover = "http://drops.albush.com/background-cover.jpg" # optional
+  footerCover = "http://drops.albush.com/fuzzy%20banner1.jpg" # optional
 
 [taxonomies]
   tag = "tags"

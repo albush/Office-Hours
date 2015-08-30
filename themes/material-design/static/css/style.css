@@ -1,5 +1,9 @@
 /* Custom Stylesheet */
 
+a {
+  color: #c42126;
+}
+
 nav ul a,
 nav .brand-logo {
   color: #444;
@@ -8,8 +12,12 @@ p {
   line-height: 2rem;
 }
 
+.btn-large {
+  background-color: #c42126;
+}
+
 .button-collapse {
-  color: #26a69a;
+  color: #c42126;
 }
 
 .parallax-container {
