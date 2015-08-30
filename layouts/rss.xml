@@ -19,12 +19,6 @@
 
         <enclosure url="{{ .Params.mp3 }}" length="{{ .Params.length }}" type="audio/mpeg" />
         <guid>{{ .Params.mp3 }}</guid>
-
-        <itunes:author>{{ .Params.author }}</itunes:author>
-        <itunes:summary>{{ .Content | html }}</itunes:summary>
-        <itunes:image href="http://drops.albush.com/RAX%20CLOUD%20OFFICE%20HANGOUT%20FINAL.png" />
-        <itunes:duration>{{ .Params.duration }}</itunes:duration>
-        <itunes:keywords>{{ .Params.tags }}</itunes:keywords>
     </item>
     {{ end }}
   </channel>
