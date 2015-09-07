@@ -4,9 +4,14 @@ a {
   color: #c42126;
 }
 
+nav {
+  background-color: #c42126;
+}
+
 nav ul a,
 nav .brand-logo {
-  color: #444;
+  color: #FFF;
+  padding-left: 20px;
 }
 p {
   line-height: 2rem;
@@ -17,11 +22,11 @@ p {
 }
 
 .button-collapse {
-  color: #c42126;
+  color: #FFF;
 }
 
 .parallax-container {
-  min-height: 380px;
+  min-height: 275px;
   line-height: 0;
   height: auto;
   color: rgba(255,255,255,.9);

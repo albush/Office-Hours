@@ -26,6 +26,7 @@
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
   <link href="{{.Site.BaseURL}}/css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/8.6/styles/default.min.css">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <style type="text/css">
   {{if .Site.Params.footerCover}}
     footer.page-footer{background-image: url({{.Site.Params.footerCover}});}
@@ -35,30 +36,42 @@
   </style>
 </head>
 <body>
+  <nav>
+  <a href="{{ .Site.BaseURL }}" class="brand-logo"><img src="//drops.albush.com/faceslogo.png" width="89px" height="55px"></a>
+<ul class="right hide-on-med-and-down">
+  {{ range first 1 .Site.Pages }}
+  {{ with .Params.mp3 }}<li><a class ="tooltipped" data-position="bottom" data-delay="50" data-tooltip="Latest Episode" href="{{ . }}"><i class="fa fa-headphones fa-2x"></i></a></li>{{ end }}
+  {{ end }}
+  {{if .Site.Params.twitter}}
+  <li><a class ="tooltipped" data-position="bottom" data-delay="50" data-tooltip="Our Twitter" href="https://twitter.com/rackerhoa"><i class="fa fa-twitter fa-2x"></i></a></li>
+  {{end}}
+  <li><a class ="tooltipped" data-position="bottom" data-delay="50" data-tooltip="About" href="{{.Site.BaseURL}}/about"><i class="material-icons">info</i></a></li>
+  <li><a class ="tooltipped" data-position="bottom" data-delay="50" data-tooltip="Live Shows" href="//live.ohpodcast.com"><i class="material-icons">new_releases</i></a></li>
+  <li><a class ="tooltipped" data-position="bottom" data-delay="50" data-tooltip="Archive" href="{{.Site.BaseURL}}/archive"><i class="material-icons">video_library</i></a></li>
+  <li><a class ="tooltipped" data-position="bottom" data-delay="50" data-tooltip="Subscribe" href="//feeds.feedburner.com/OfficeHoursPodcast"><i class="fa fa-rss fa-2x"></i></a></li>
+</ul>
+<ul id="slide-out" class="side-nav">
+  <li><a href="{{.Site.BaseURL}}">Home</a></li>
+  {{ range first 1 .Site.Pages }}
+  {{ with .Params.mp3 }}<li><a href="{{ . }}">Listen: Latest Episode</i></a></li>{{ end }}
+  {{ end }}
+  {{if .Site.Params.twitter}}
+  <li><a href="https://twitter.com/rackerhoa">Follow on Twitter</i></a></li>
+  {{end}}
+  <li><a href="{{.Site.BaseURL}}/about">About</a></li>
+  <li><a href="//live.ohpodcast.com">Live Show</a></li>
+  <li><a href="{{.Site.BaseURL}}/archive">Archive</a></li>
+  <li><a href="//feeds.feedburner.com/OfficeHoursPodcast">Subscribe</a></li>
+
+</ul>
+<a href="#" data-activates="slide-out" class="button-collapse"><i class="mdi-navigation-menu"></i></a>
+</nav>
   <div id="index-banner" class="parallax-container">
     <div class="section no-pad-bot">
       <div class="container">
-        <h1 class="header center"><a href="{{.Site.BaseURL}}">Office Hours Hangouts</a></h1>
+          <h1 class="header center">Office Hours Hangouts</h1>
         <div class="row center">
           <h5 class="header col s12 light">Educating and inspiring the cloud computing community.</h5>
-        </div>
-        <div class="row center">
-        {{if .Site.Params.facebook}}
-          <a href="https://www.facebook.com/{{.Site.Params.facebook}}"><img src="{{.Site.BaseURL}}/images/facebook-dreamstale25.png"></a>
-        {{end}}
-        {{if .Site.Params.twitter}}
-          <a href="https://twitter.com/rackerhoa"><img src="{{.Site.BaseURL}}/images/twitter-dreamstale71.png"></a>
-        {{end}}
-        {{if .Site.Params.gplus}}
-          <a href="https://google.com/+RackspaceHosting/posts"><img src="{{.Site.BaseURL}}/images/gplus48x48.png"></a>
-        {{end}}
-        {{if .Site.Params.github}}
-          <a href="https://github.com/albush/Office-Hours"><img src="{{.Site.BaseURL}}/images/github2-dreamstale35.png"></a>
-        {{end}}
-          <a href="http://feeds.feedburner.com/OfficeHoursPodcast"><img src="{{.Site.BaseURL}}/images/feed-dreamstale27.png"></a>
-        </div>
-        <div class="row center">
-          <h5 ><a href="//live.ohpodcast.com">Live!</a> | <a href="#">About</a></h5>
         </div>
       </div>
     </div>
