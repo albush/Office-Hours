@@ -14,10 +14,9 @@ youtube_id = "Sld-_RWDrVQ"
 
 +++
 
-## Recap
-
 On [last week's Office Hours Hangout](http://www.rackspace.com/blog/black-friday-is-coming/), cohost Drew Cox and I discussed several new tools, features, and products Rackspace has released in the last year that we think will be most helpful to customers going into the 2015 Black Friday season. One that we are both very excited about is [Rackspace Intelligence](http://www.rackspace.com/blog/rackspace-intelligence-new-features/), our new single pane of glass which gives customers a real-time and comprehensive overview of the health of their infrastructure at one glance. This week we took a deep dive into Intelligence with Intelligence's software engineering manager, David Dunlop. I've highlighted a few key moments, and the entire video is available below.
 
+<!--more-->
 {{< audio >}}
 
 {{< youtube >}}

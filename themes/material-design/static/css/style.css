@@ -35,6 +35,14 @@ p {
     width: 100%;
   }
 
+@media screen, projection {
+  audio, canvas, progress, video {
+      display: inline-block;
+      vertical-align: baseline;
+      width: 100%;
+  }
+}
+
 @media only screen and (max-width : 992px) {
   .parallax-container .section {
     position: absolute;
