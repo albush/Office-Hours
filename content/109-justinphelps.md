@@ -1,18 +1,19 @@
-+++
-
-Title = "Hanging out with Justin Phelps"
-Date = "2015-08-11"
-author = "Alan Bush"
-number = "109"
-duration = "50:01"
-length = "36010736"
-mp3 = "http://drops.albush.com/Racker%20Spotlight%20-%20Ansible%20Certified%20Engineer%20Justin%20Phelps.mp3"
-ogg = "http://drops.albush.com/Racker%20Spotlight%20-%20Ansible%20Certified%20Engineer%20Justin%20Phelps.ogg"
-youtube_id = "t384JnmvcuQ"
-summary = "Justin Phelps is one of the first two people to earn the Ansible Certified Engineer Award. He's our guest on our Rackspace Office Hours Hangout."
-tags = [ "Ansible", "GitHub", "Static Websites", ]
-
-+++
+---
+Date: 2015-08-11
+Title: Hanging out with Justin Phelps
+author: Alan Bush
+duration: "50:01"
+length: 36010736
+mp3: http://drops.albush.com/Racker%20Spotlight%20-%20Ansible%20Certified%20Engineer%20Justin%20Phelps.mp3
+number: "109"
+ogg: http://drops.albush.com/Racker%20Spotlight%20-%20Ansible%20Certified%20Engineer%20Justin%20Phelps.ogg
+summary: Justin Phelps is one of the first two people to earn the Ansible Certified Engineer Award. He's our guest on our Rackspace Office Hours Hangout.
+tags:
+- Ansible
+- GitHub
+- Static Websites
+youtube_id: t384JnmvcuQ
+---
 
 Last week's hangout featured a spotlight on Racker Justin Phelps. Justin is a 3 and a half year Racker working in our DevOps Engineering teams. He was one of the first 40 people certified as a SaltStack Engineer, and just this last week earned his Certified Ansible Engineer award.
 

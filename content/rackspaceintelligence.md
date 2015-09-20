@@ -1,18 +1,21 @@
-+++
-
-author = "Alan Bush"
-date = "2015-08-27"
-number = "112"
-duration = "59:46"
-length = "43032137"
-mp3 = "http://drops.albush.com/Learn%20more%20about%20Rackspace%20Intelligence.mp3"
-ogg = "http://drops.albush.com/Learn%20more%20about%20Rackspace%20Intelligence.ogg"
-summary = "A deeper dive into Rackspace's new single pane of glass for analytics and monitoring, Rackspace Intelligence."
-tags = ["Black Friday", "Rackspace", "monitoring", "Analytics", "Alerts"]
-title = "Learn More about Rackspace Intelligence"
-youtube_id = "Sld-_RWDrVQ"
-
-+++
+---
+author: Alan Bush
+date: 2015-08-27
+duration: "59:46"
+length: 43032137
+mp3: http://drops.albush.com/Learn%20more%20about%20Rackspace%20Intelligence.mp3
+number: "112"
+ogg: http://drops.albush.com/Learn%20more%20about%20Rackspace%20Intelligence.ogg
+summary: A deeper dive into Rackspace's new single pane of glass for analytics and monitoring, Rackspace Intelligence.
+tags:
+- Black Friday
+- Rackspace
+- monitoring
+- Analytics
+- Alerts
+title: Learn More about Rackspace Intelligence
+youtube_id: Sld-_RWDrVQ
+---
 
 On [last week's Office Hours Hangout](http://www.rackspace.com/blog/black-friday-is-coming/), cohost Drew Cox and I discussed several new tools, features, and products Rackspace has released in the last year that we think will be most helpful to customers going into the 2015 Black Friday season. One that we are both very excited about is [Rackspace Intelligence](http://www.rackspace.com/blog/rackspace-intelligence-new-features/), our new single pane of glass which gives customers a real-time and comprehensive overview of the health of their infrastructure at one glance. This week we took a deep dive into Intelligence with Intelligence's software engineering manager, David Dunlop. I've highlighted a few key moments, and the entire video is available below.
 

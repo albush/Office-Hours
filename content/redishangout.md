@@ -1,18 +1,19 @@
-+++
-
-Title = "Getting Started With Redis Hangout"
-Date = "2014-08-18"
-author = "Alan Bush"
-number = "68"
-duration = "52:08"
-length = "37536078"
-mp3 = "http://drops.albush.com/Getting%20Started%20With%20Redis.mp3"
-ogg = "http://drops.albush.com/Getting%20Started%20With%20Redis.ogg"
-youtube_id = "-eIxC7oF4Ic"
-summary = "This podcast was all about Redis. We talked about Redis and some other stuff."
-tags = [ "Redis", "ObjectRocket", "NoSQL", ]
-
-+++
+---
+Date: 2014-08-18
+Title: Getting Started With Redis Hangout
+author: Alan Bush
+duration: "52:08"
+length: 37536078
+mp3: http://drops.albush.com/Getting%20Started%20With%20Redis.mp3
+number: "68"
+ogg: http://drops.albush.com/Getting%20Started%20With%20Redis.ogg
+summary: This podcast was all about Redis. We talked about Redis and some other stuff.
+tags:
+- Redis
+- ObjectRocket
+- NoSQL
+youtube_id: -eIxC7oF4Ic
+---
 
 Every week I host a live video hangout series called [Office Hours][99]. We discuss a range of cloud computing topics, and invite guest experts in to share their experience. This past week I had the honor of chatting with three members of the Rackspace Data Stores team about Redis.
 
