@@ -1,17 +1,21 @@
-+++
-Title = "Lessons Learned from the HealthCare.gov Relaunch With Rackspace CTO John Engates"
-Author = "Alan Bush"
-Date = "2013-12-05"
-number = "035"
-youtube_id = "dyNmIPJQRww"
-duration = "01:03:15"
-length = "60726960"
-mp3 = "http://drops.albush.com/Lessons-Learned-form-the-HealthCare.gov-Re-launch---With-Rackspace-CTO-John-Engates.mp3"
-ogg = "http://drops.albush.com/Lessons-Learned-form-the-HealthCare.gov-Re-launch---With-Rackspace-CTO-John-Engates.ogg"
-summary = ""
-tags = ["healthcare.gov", "John Engates", "Rackspace", "ecommerce"]
-
-+++
+---
+Author: Alan Bush
+Date: 2013-12-05
+Title: Lessons Learned from the HealthCare.gov Relaunch With Rackspace CTO John Engates
+duration: "01:03:15"
+length: 60726960
+ogg_length: 43161737
+mp3: http://drops.albush.com/Lessons-Learned-form-the-HealthCaregov-Re-launch-With-Rackspace-CTO-John-Engates.mp3
+number: "035"
+ogg: http://drops.albush.com/Lessons-Learned-form-the-HealthCaregov-Re-launch-With-Rackspace-CTO-John-Engates.ogg
+summary: ""
+tags:
+- healthcare.gov
+- John Engates
+- Rackspace
+- ecommerce
+youtube_id: dyNmIPJQRww
+---
 
 The main reason that Drew and I started the Cloud Office Hours Hangout was to help new and existing businesses learn how to leverage the power of the cloud. In particular, we try to provide information that can be helpful for businesses to scale their website or application for an onslaught of traffic. Preparation is the key to ensuring that a website is up and available.
 

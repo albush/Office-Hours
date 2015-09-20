@@ -1,18 +1,21 @@
-+++
-
-Title = "Get Savvy about New Relic Insights"
-Date = "2015-09-03"
-author = "Alan Bush"
-number = "113"
-duration = "49:21"
-length = "35535830"
-mp3 = "http://drops.albush.com/Getting-Savvy-on-New-Relic-Insights.mp3"
-ogg = "http://drops.albush.com/Getting-Savvy-on-New-Relic-Insights.ogg"
-youtube_id = "XaaEVMgu7es"
-summary = "We take a look at New Relic's newish platform for real-time data analytics. This is a great tool for making data-driven decisions for your business."
-tags = [ "New Relic", "data-driven decisions", "analytics", "Monitoring" ]
-
-+++
+---
+Date: 2015-09-03
+Title: Get Savvy about New Relic Insights
+author: Alan Bush
+duration: "49:21"
+length: 35535830
+ogg_length: 113390284
+mp3: http://drops.albush.com/Getting-Savvy-on-New-Relic-Insights.mp3
+number: "113"
+ogg: http://drops.albush.com/Getting-Savvy-on-New-Relic-Insights.ogg
+summary: We take a look at New Relic's newish platform for real-time data analytics. This is a great tool for making data-driven decisions for your business.
+tags:
+- New Relic
+- data-driven decisions
+- analytics
+- Monitoring
+youtube_id: XaaEVMgu7es
+---
 
 Our latest Office Hours Hangout kept us on the topic of Monitoring. [Last week we took a look at Rackspace Intelligence](http://www.rackspace.com/blog/office-hours-hangout-learn-more-about-rackspace-intelligence/), our single pane of glass which gives customers a real-time and comprehensive overview of the health of their infrastructure at one glance. This week we invited our friends from New Relic to join us to discuss their [Insights](http://newrelic.com/insights) platform.
 

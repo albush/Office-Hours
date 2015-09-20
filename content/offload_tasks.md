@@ -1,18 +1,22 @@
-+++
-
-author = "Alan Bush"
-date = "2015-09-17"
-number = "115"
-duration = "46:24"
-length = "33413015"
-mp3 = "http://drops.albush.com/Offload-these-3-tasks-for-a-smoother-Black-Friday.mp3"
-ogg = "http://drops.albush.com/Offload-these-3-tasks-for-a-smoother-Black-Friday.ogg"
-summary = "A quick look at three different tasks that you can offload from your support team to Rackspace or other 3rd party tools. Also, Saying 'Happy Anniversary' with a cascarone egg attack."
-tags = ["Black Friday", "Cyber Monday", "Rackspace", "ecommerce", "cascarone"]
-title = "Offload these 3 tasks for a smoother Black Friday"
-youtube_id = "nuACQQsp4ko"
-
-+++
+---
+author: Alan Bush
+date: 2015-09-17
+duration: "46:24"
+length: 33413015
+ogg_length: 33507651
+mp3: http://drops.albush.com/Offload-these-3-tasks-for-a-smoother-Black-Friday.mp3
+number: "115"
+ogg: http://drops.albush.com/Offload-these-3-tasks-for-a-smoother-Black-Friday.ogg
+summary: A quick look at three different tasks that you can offload from your support team to Rackspace or other 3rd party tools. Also, Saying 'Happy Anniversary' with a cascarone egg attack.
+tags:
+- Black Friday
+- Cyber Monday
+- Rackspace
+- ecommerce
+- cascarone
+title: Offload these 3 tasks for a smoother Black Friday
+youtube_id: nuACQQsp4ko
+---
 
 We had a fun show this week, taking a quick look at 3 specific tasks to take off your plate this Black Friday. We also had a surprise celebration of my 3 years as a Racker.
 

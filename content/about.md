@@ -1,9 +1,8 @@
-+++
-date = "2013-03-21"
-title = "About Office Hours Hangouts"
-url = "/about"
-
-+++
+---
+date: 2013-03-21
+title: About Office Hours Hangouts
+url: /about
+---
 
 Office Hours Hangouts is a weekly video netcast presented by Rackspace. Each week we share best practices for building applications, sites, and businesses in the cloud. The show is presented live each Thursday at 1pm US Central time, with audio and video available on-demand shortly thereafter.
 
