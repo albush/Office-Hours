@@ -14,12 +14,18 @@ youtube_id = "nuACQQsp4ko"
 
 +++
 
-Continuing with our Black Friday theme, we featured 3 tasks our customers can offload - to Rackspace or 3rd party partners - so that they can focus on their core business, and getting customers to their ecommerce site during Black Friday and Cyber Monday.
+We had a fun show this week, taking a quick look at 3 specific tasks to take off your plate this Black Friday. We also had a surprise celebration of my 3 years as a Racker.
+
+{{% img src="https://j.gifs.com/Kzd2wP.gif" caption="Some unexpected guests dropped by to wish me a happy Rackerversary." %}}
 
 <!--more-->
+Continuing with our Black Friday theme, we featured 3 tasks our customers can offload - to Rackspace or 3rd party partners - so that they can focus on their core business, and getting customers to their eCommerce site during Black Friday and Cyber Monday.
+
 {{< audio >}}
 
 {{< youtube >}}
+
+
 
 ## Highlights
 
@@ -28,3 +34,9 @@ Continuing with our Black Friday theme, we featured 3 tasks our customers can of
 * [Offload CDN](https://youtu.be/nuACQQsp4ko?t=21m44s)
 * [Offload User Management](https://youtu.be/nuACQQsp4ko?t=26m13s)
 * [Offload System Administration](https://youtu.be/nuACQQsp4ko?t=32m15s)
+
+## Links
+
+* Stormpath - Authentication & User Management API: https://stormpath.com/
+* Rackspace CDN: http://www.rackspace.com/cloud/cdn-content-delivery-network
+* Rackspace Managed Operations: http://www.rackspace.com/blog/why-rackspace-managed-operations/
