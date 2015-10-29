@@ -15,9 +15,8 @@ tags:
 - Managed Security
 - Fanatical Support
 youtube_id: g9nBwxzH-ms
+featured_image: http://drops.albush.com/120-RMS.png
 ---
-
-{{% img src="http://drops.albush.com/120-RMS.png" caption="Introducing Fanatical Support for AWS." %}}
 
 You can't put a price tag on keeping your customer's data safe. Rackspace Managed Security helps keep that data safe. With a dedicated Security Operations Center, and a full team helping our customers stay ahead of the latest threats, Rackspace's Managed Security services help customers meet compliance needs and protect their data.
 

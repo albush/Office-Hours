@@ -15,10 +15,8 @@ tags:
 - AWS
 - Fanatical Support
 youtube_id: h_awwdA81RY
+featured_image: http://drops.albush.com/119%20-%20FAWS.png
 ---
-
-{{% img src="http://drops.albush.com/119%20-%20FAWS.png" caption="Introducing Fanatical Support for AWS." %}}
-
 Last week we announced Fanatical Support for Amazon Web Services. This week we answered your questions on our weekly Office Hours Hangout. We brought in two of the people who helped create this new offering together - live - to chat about the new service offering.
 <!--more-->
 

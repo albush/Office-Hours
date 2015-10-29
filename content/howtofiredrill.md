@@ -15,10 +15,8 @@ tags:
 - Fire Drills
 - Monitoring
 youtube_id: XNhzfvApLNE
+featured_image: http://drops.albush.com/117%20-%20Fire%20Drills%20%281%29.png
 ---
-
-{{% img src="http://drops.albush.com/117%20-%20Fire%20Drills%20%281%29.png" caption="An untested plan is just a hunch." %}}
-
 Do you have a plan for a potential website outage? Do you know if it works? Without verification your plan is only a hunch. You can choose to verify your plan on your own, on purpose, in controlled circumstances; or while your site is down during the biggest day of your career. Having a plan is only half of the equation. Learn how to test your response plan on your own terms, by planning and executing “fire drills.”
 <!--more-->
 
