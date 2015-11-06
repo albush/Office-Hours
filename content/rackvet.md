@@ -1,6 +1,6 @@
 ---
 author: Alan Bush
-date: 2015-11-06T08:42:11-0600
+date: 22015-11-06T09:30:36-06:00
 duration: 53:16
 length: 38356427
 mp3: http://drops.albush.com/RackVET-Translating-military-service-to-customer-service.mp3
