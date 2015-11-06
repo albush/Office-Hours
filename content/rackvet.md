@@ -12,7 +12,7 @@ tags:
 - Rackspace
 - military
 - Veterans
-title: RackVET: Translating military service to customer service
+title: RackVET Translating military service to customer service
 youtube_id: j3TSGWYsosM
 featured_image: http://drops.albush.com/122%20RackVET.png
 ---
