@@ -2,15 +2,22 @@
 {{ $baseurl := .Site.BaseURL }}
 <div id="index-banner" class="parallax-container">
   <div class="section no-pad-bot">
+
     <div class="container">
+
         <h1 class="header center">Office Hours Hangouts</h1>
       <div class="row center">
         <h5 class="header col s12 light">Educating and inspiring the cloud computing community.</h5>
       </div>
+
     </div>
   </div>
   <div class="parallax">
+    {{ if .Params.featured_image }}
     <img{{ with .Params.featured_image }} src="{{ . }}"{{ end }} alt="{{ .Title }}">
+    {{ else }}
+    <img src="{{.Site.Params.headerCover}}">
+    {{ end }}
   </div>
 </div>
 <div class="container">
