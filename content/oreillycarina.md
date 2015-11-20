@@ -25,3 +25,39 @@ We had a great Hangout this week. Not only were we joined by Rackers Kyle Kelley
 {{< audio >}}
 
 {{< youtube >}}
+
+Episode 124 :  O’Reilly Media’s Success with Carina Containers
+
+Recorded Live: 11-19-2015
+
+## Participants
+
+### Hosts:
+- Alan Bush: @AlanBush – Rackspace Community Manager
+- Drew Cox: @DrewCoxSA – Rackspace Enterprise Technical Advisor
+
+### Guests:
+- Kyle Kelley: Developer, Carina Containers
+- Andrew Odewahn: @odewahn – CTO, O’Reilly
+- Jason Barnhill: Product Marketing Manager - Rackspace Containers Project
+
+
+## Highlights
+* Jupyter Project [(5:05)](https://youtu.be/ApJTUkLTr74?t=5m05s)
+* Quick time to market [(7:00)](https://youtu.be/ApJTUkLTr74?t=7m00s)
+* Carina containers overview [(13:20)](https://youtu.be/ApJTUkLTr74?t=13m20s)
+* Carina - “It was done exactly right” [(16:50)](https://youtu.be/ApJTUkLTr74?t=16m50s)
+* Problem solving when moving to containers [(18:34)](https://youtu.be/ApJTUkLTr74?t=18m34s)
+* Containers – It’s all about possibilities [(22:35)](https://youtu.be/ApJTUkLTr74?t=22m35s)
+* Carina overview part 2 [(28:51)](https://youtu.be/ApJTUkLTr74?t=28m51s)
+* Lessons learned with containers [(35:28)](https://youtu.be/ApJTUkLTr74?t=35m28s)
+* Starting small with containers [(38:52)](https://youtu.be/ApJTUkLTr74?t=38m52s)
+* Shifting from Docker to Carina [(46:50)](https://youtu.be/ApJTUkLTr74?t=46m50s)
+* Carina in Beta [(49:33)](https://youtu.be/ApJTUkLTr74?t=49m33s)
+* Usability of O’Reilly [(54:24)](https://youtu.be/ApJTUkLTr74?t=54m24s)
+
+## Links:
+- [O’Reilly Media](http://www.oreilly.com/)
+- [Carina Containers by Rackspace](https://getcarina.com/)
+- [Jupyter Project](http://jupyter.org/)
+- [Example of containers at O'Reilly](https://www.oreilly.com/learning/pivot-tables)
