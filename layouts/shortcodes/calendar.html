@@ -1,0 +1,2 @@
+<p>Episode {{ with $.Page.Params.number }}{{ . }}{{ end }} airs live on {{ with $.Page.Params.calendar }}<a href="{{ . }}">{{ end }}{{ $.Page.Date.Format "Mon Jan 2, 2006 at 3:04 PM U.S. Central Time" }}</a></p>
+<p>{{ with $.Page.Params.calendar }}<a class="waves-effect waves-light btn" href="{{ . }}">{{ end }}<i class="material-icons">event</i> Add to Calendar</a> <a class="waves-effect waves-light btn" href="/qa"><i class="material-icons">question_answer</i> Ask a Question</a></p>
