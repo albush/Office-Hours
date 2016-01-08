@@ -2,7 +2,7 @@
 author: Alan Bush
 date: 2016-01-07T13:00:00-06:00
 show_date: 2016-01-07T13:00:00-06:00
-number: 127
+number: 128
 summary: "You've resolved to migrate your services from legacy and cloud hardware to containers. Now what? We're talking with Rackers who have made this migration - both internally and for our customers.﻿"
 title: "Live Show January 7th: You resolved to containerize services this year. Now what?"
 youtube_id: 4h1MHZiX7QQ
