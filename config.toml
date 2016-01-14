@@ -10,7 +10,6 @@ copyright = "© 2015"
 [params]
   baseurl = "http://ohpodcast.com/"
   description = "People you can talk to... about technology."
-  twitter = "rackerhoa" # optional
   github = "albush/Office-Hours" # optional
   gplus = "+RackspaceHosting" # optional
   # about = "about"
