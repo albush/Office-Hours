@@ -18,6 +18,8 @@
       <p>
         {{ if .Params.featured_image }}
         <a href="{{ .Permalink }}"><img class="responsive-img" {{ with .Params.featured_image }} src="{{ . }}"{{ end }} alt="{{ .Title }}"></a>
+        {{ else }}
+        <a href="{{ .Permalink }}"><img class="responsive-img" {{ with .Site.Params.headerCover }} src="{{ . }}"{{ end }} alt="{{ .Title }}"></a>
         {{ end }}
       </p>
       <p>{{ .Summary }}</p>
