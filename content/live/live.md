@@ -7,7 +7,7 @@ summary: "Is it better to host your own service? or go with a hosted solution? E
 title: "Next Live Show: *aaS vs self-hosted solutions"
 crowdcast_id: rackspacedeepdive7
 youtube_id: OKolgX3jNZ0
-featured_image:
+featured_image: http://drops.albush.com/132-aaS-tiny.png
 calendar: https://plus.google.com/events/cvdef0tai2p98du07et8rj1nlio
 duration:
 length:
