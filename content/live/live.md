@@ -1,14 +1,14 @@
 ---
 author: Alan Bush
-date: 2016-01-30T10:00:00-06:00
-show_date: 2016-02-04T13:00:00-06:00
-number: 132
-summary: "Is it better to host your own service? or go with a hosted solution? Every application needs to answer this question - often many times over. On this week's Office Hours Hangout we're bringing together a panel to discuss the pros and cons of each approach."
-title: "Next Live Show: *aaS vs self-hosted solutions"
-crowdcast_id: rackspacedeepdive7
-youtube_id: OKolgX3jNZ0
-featured_image: http://drops.albush.com/132-aaS-tiny.png
-calendar: https://plus.google.com/events/cvdef0tai2p98du07et8rj1nlio
+date: 2016-02-05T10:00:00-06:00
+show_date: 2016-02-11T13:00:00-06:00
+number: 133
+summary: "We're taking the show on the road again, this time to New York, for Rackspace::Solve. We'll be talking with some of the presenters, partners and customers at the conference."
+title: "Live! From Rackspace::Solve"
+crowdcast_id: rackspacedeepdive8
+youtube_id: p2_yl0tv2NA
+featured_image:
+calendar: https://plus.google.com/events/ckcoibsdqr3rt5hd8q2ljl9ns8s
 duration:
 length:
 mp3:
@@ -16,8 +16,9 @@ ogg:
 ogg_length:
 tags:
 - Rackspace
-- as a Service
-- self-hosted
+- Solve
+- customers
+- solutions
 ---
 <!--more-->
 
