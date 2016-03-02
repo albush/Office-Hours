@@ -1,14 +1,14 @@
 ---
 author: Alan Bush
-date: 2016-02-19T10:00:00-06:00
-show_date: 2016-02-25T13:00:00-06:00
-number: 135
-title: "Next Live Show is Thursday 2/25: Elasticsearch"
-summary: "Rackspace has rolled out some great new features for Elasticsearch and MongoDB. Join us as we chat with our engineers from Object Rocket, fresh from ElastiCon.​"
-crowdcast_id: rackspacedeepdive10
-youtube_id: eBG9hMuWAko
-featured_image: http://drops.albush.com/135-ElasticsearchMongo-1.png
-calendar: https://plus.google.com/events/csmgp103rcctbb03k9turp249n4
+date: 2016-03-02T10:00:00-06:00
+show_date: 2016-03-03T13:00:00-06:00
+number: 136
+title: "Next Live Show is Thursday 3/3: Why did I just get hacked? "
+summary: "A series addressing common security vulnerabilities in today's threat landscape. This week's topic: Securing Authentication"
+crowdcast_id: rackspacedeepdive11
+youtube_id: jvKK8Hj9eoY
+featured_image: http://drops.albush.com/136-DuoSecurity.png
+calendar: https://plus.google.com/events/cq8rmvihagjcgdh7vods4mvilh4
 duration:
 length:
 mp3:
@@ -16,8 +16,9 @@ ogg:
 ogg_length:
 tags:
 - Rackspace
-- Elasticsearch
-- MongoDB
+- security
+- multi-factor authentication
+- DuoSecurity
 ---
 <!--more-->
 
