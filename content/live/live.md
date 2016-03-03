@@ -1,14 +1,14 @@
 ---
 author: Alan Bush
-date: 2016-03-02T10:00:00-06:00
+date: 2016-03-03T10:00:00-06:00
 show_date: 2016-03-03T13:00:00-06:00
 number: 136
-title: "Next Live Show is Thursday 3/3: Why did I just get hacked? "
-summary: "A series addressing common security vulnerabilities in today's threat landscape. This week's topic: Securing Authentication"
-crowdcast_id: rackspacedeepdive11
-youtube_id: jvKK8Hj9eoY
-featured_image: http://drops.albush.com/136-DuoSecurity.png
-calendar: https://plus.google.com/events/cq8rmvihagjcgdh7vods4mvilh4
+title: "Next Live Show is Thursday 3/10: OnMetal 2.0"
+summary: "We're very excited to show off our latest iteration of OnMetal Servers."
+crowdcast_id: rackspacedeepdive12
+youtube_id: hJd9-W8Ap3I
+featured_image:
+calendar: https://plus.google.com/events/crbp0mn5qspuon9cord44j609ic
 duration:
 length:
 mp3:
@@ -16,9 +16,8 @@ ogg:
 ogg_length:
 tags:
 - Rackspace
-- security
-- multi-factor authentication
-- DuoSecurity
+- Cloud Servers
+- OnMetal
 ---
 <!--more-->
 
