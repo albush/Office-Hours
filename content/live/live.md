@@ -1,7 +1,7 @@
 ---
 author: Alan Bush
-date: 2016-03-03T10:00:00-06:00
-show_date: 2016-03-03T13:00:00-06:00
+date: 2016-03-08T10:00:00-06:00
+show_date: 2016-03-10T13:00:00-06:00
 number: 137
 title: "Next Live Show is Thursday 3/10: OnMetal 2.0"
 summary: "Our bare-metal, cloud-provisioned servers just leveled up. Join us to learn more about OnMetal 2.0"
@@ -18,6 +18,7 @@ tags:
 - Rackspace
 - Cloud Servers
 - OnMetal
+- Product Announcement
 ---
 <!--more-->
 
