@@ -33,12 +33,12 @@ Recorded Live: 2016-02-25
 
 ## Hosts:
 
-- Alan Bush: [@AlanBush](http://twitter.com/alanbush) – Rackspace Community Manager
-- Drew Cox: [@DrewCoxSA](http://twitter.com/drewcoxsa) – Rackspace Enterprise Technical Advisor
+- Alan Bush: [@AlanBush](https://twitter.com/alanbush) – Rackspace Community Manager
+- Drew Cox: [@DrewCoxSA](https://twitter.com/drewcoxsa) – Rackspace Enterprise Technical Advisor
 
 ## Guests:
 
-- Keith Higbee: [@KeithHigbee](http://twitter.com/keithhigbee) – Senior Manager, Software Development, ObjectRocket
+- Keith Higbee: [@KeithHigbee](https://twitter.com/keithhigbee) – Senior Manager, Software Development, ObjectRocket
 
 
 ## Highlights

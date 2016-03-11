@@ -1,14 +1,14 @@
 ---
 author: Alan Bush
-date: 2016-03-08T10:00:00-06:00
-show_date: 2016-03-10T13:00:00-06:00
-number: 137
-title: "Next Live Show is Thursday 3/10: OnMetal 2.0"
-summary: "Our bare-metal, cloud-provisioned servers just leveled up. Join us to learn more about OnMetal 2.0"
-crowdcast_id: rackspacedeepdive12
-youtube_id: hJd9-W8Ap3I
-featured_image: http://drops.albush.com/137-OnMetal2-Images.png
-calendar: https://plus.google.com/events/crbp0mn5qspuon9cord44j609ic
+date: 2016-03-10T10:00:00-06:00
+show_date: 2016-03-17T13:00:00-06:00
+number: 138
+title: "Next Live Show is Thursday 3/17: Redis"
+summary: "What's new with Redis? Join our friends from ObjectRocket as we discuss Redis."
+crowdcast_id: rackspacedeepdive13
+youtube_id: _SI3HhvwuSg
+featured_image:
+calendar: https://plus.google.com/events/cio1k2osn62srqq7hgvenpmhgn4
 duration:
 length:
 mp3:
@@ -16,9 +16,8 @@ ogg:
 ogg_length:
 tags:
 - Rackspace
-- Cloud Servers
-- OnMetal
-- Product Announcement
+- ObjectRocket
+- Redis
 ---
 <!--more-->
 

@@ -32,8 +32,8 @@ Recorded Live: 2016-03-03
 
 ## Hosts:
 
-- Alan Bush: [@AlanBush](http://twitter.com/alanbush) – Rackspace Community Manager
-- Drew Cox: [@DrewCoxSA](http://twitter.com/drewcoxsa) – Rackspace Enterprise Technical Advisor
+- Alan Bush: [@AlanBush](https://twitter.com/alanbush) – Rackspace Community Manager
+- Drew Cox: [@DrewCoxSA](https://twitter.com/drewcoxsa) – Rackspace Enterprise Technical Advisor
 
 
 ## Guest:
