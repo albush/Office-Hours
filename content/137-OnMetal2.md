@@ -26,6 +26,10 @@ Recorded Live: 2016-03-10
 
 <!--more-->
 
+{{< audioMB >}}
+
+{{< youtube >}}
+
 ## Hosts:
 
 - Alan Bush: [@AlanBush](https://twitter.com/alanbush) – Rackspace Community Manager
