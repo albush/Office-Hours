@@ -6,8 +6,10 @@
 *.mov
 *.ai
 *.ogg
+*.au
 
 /admin
 /analytics
-/assets
 /public
+/assets
+/shows
