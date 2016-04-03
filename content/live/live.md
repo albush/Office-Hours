@@ -1,14 +1,15 @@
 ---
 author: Alan Bush
-date: 2016-03-31T09:00:00-06:00
-show_date: 2016-03-31T13:00:00-06:00
+date: 2016-04-02T09:00:00-06:00
+show_date: 2016-04-07T13:00:00-06:00
 number: 140
-title: "Fanatical Support in the Age of Social Media"
-summary: "How does Rackspace support customers where they are - including Social Media? Join our experts as we chat about Fanatical Support for our customers on all channels."
-crowdcast_id: OfficeHours140
-youtube_id: PgUscrgwrzc
-featured_image: http://drops.albush.com/Episode140.png
-calendar: https://www.crowdcast.io/e/OfficeHours140/register
+title: "Next Live Show: 4/7 1pm CDT"
+summary: "Live every Thursday at 1pm CDT"
+crowdcast_id:
+youtube_id:
+playlist_id: PLXK8KWNgW1Ms1ROsbIhOg6kJV2eOqAP3Y
+featured_image:
+calendar:
 duration:
 length:
 mp3:
@@ -16,12 +17,9 @@ ogg:
 ogg_length:
 tags:
 - Rackspace
-- Social Media
-- Fanatical Support
 
 ---
-How does Rackspace support customers where they are - including Social Media? Join our experts as we chat about Fanatical Support for our customers on all channels.
 
 <!--more-->
 
-{{< crowdcast >}}
+{{< youtube_playlist >}}
