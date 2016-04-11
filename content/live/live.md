@@ -3,12 +3,12 @@ author: Alan Bush
 date: 2016-04-02T09:00:00-06:00
 show_date: 2016-04-07T13:00:00-06:00
 number: 140
-title: "Next Live Show: 4/7 1pm CDT"
+title: "Next Live Show: Introducing OpenStack Everywhere"
 summary: "Live every Thursday at 1pm CDT"
-crowdcast_id: OfficeHours141
-youtube_id: R3P0rPFEcJ0
+crowdcast_id: OfficeHours142
+youtube_id:
 featured_image:
-calendar: http://ccst.io/e/OfficeHours141
+calendar: http://ccst.io/e/
 duration:
 length:
 mp3:
