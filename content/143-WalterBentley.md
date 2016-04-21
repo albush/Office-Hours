@@ -1,6 +1,6 @@
 ---
 author: Alan Bush
-date: 2016-01-01T09:00:00-06:00
+date: 2016-04-21T09:00:00-06:00
 show_date: 2016-04-21T13:00:00-06:00
 number: 143
 title: "A pre-Summit chat with OpenStack Architect & Author Walter Bentley"
