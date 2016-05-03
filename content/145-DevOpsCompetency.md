@@ -1,6 +1,6 @@
 ---
 author: Alan Bush
-date: 2016-01-01T09:00:00-06:00
+date: 2016-05-03T09:00:00-06:00
 show_date: 2016-05-05T13:00:00-06:00
 number: 145
 title: "How Rackspace Delivers DevOps Competency"
