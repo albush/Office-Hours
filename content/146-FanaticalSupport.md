@@ -1,6 +1,6 @@
 ---
 author: Alan Bush
-date: 2016-01-01T09:00:00-06:00
+date: 2016-05-21T09:00:00-06:00
 show_date: 2016-05-12T13:00:00-06:00
 number: 146
 title: "The many ways Rackspace provides Fanatical Support"
