@@ -1,6 +1,6 @@
 ---
 author: Alan Bush
-date: 2016-01-01T09:00:00-06:00
+date: 2016-05-18T09:00:00-06:00
 show_date: 2016-05-19T13:00:00-06:00
 number: 147
 title: "High Availability in Cloud Databases"
@@ -19,6 +19,11 @@ tags:
 - Fanatical Support
 - Cloud Databases
 - High Availability
+Hosts:
+- albush
+- drewcox
+Guests:
+- 
 ---
 
 <!--more-->
