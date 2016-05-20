@@ -2,11 +2,11 @@
 author: Alan Bush
 date: 2015-11-19T20:45:51-06:00
 duration: 57:49
-length: 41624032
+length: 41.6
 mp3: http://drops.albush.com/OReilly-Media-Success-with-Carina-Containers.mp3
 number: 124
 ogg: http://drops.albush.com/OReilly-Media-Success-with-Carina-Containers.ogg
-ogg_length: 72479294
+ogg_length: 72.5
 summary: "This week's Office Hours Hangout features our friends from O'Reilly Media discussing how they use Carina containers in their educational articles."
 tags:
 - Rackspace
@@ -16,31 +16,22 @@ tags:
 title: O'Reilly Media's Success with Carina Containers
 youtube_id: ApJTUkLTr74
 featured_image: http://drops.albush.com/124-OReilly-Ship.png
+hosts:
+- albush
+- drewcox
+guests:
+- aodewahn
+- jbarnhill
+- kkelley
 ---
 
 We had a great Hangout this week. Not only were we joined by Rackers Kyle Kelley and Jason Barnhill, but we had the opportunity to speak with O'Reilly Media's CTO Andrew Odewahn. O'Reilly has been using our Carina Docker as a Service for a while, and has done some great things with it. I love hearing from customers, and this was no exception.
 
 <!--more-->
 
-{{< audio >}}
-
-{{< youtube >}}
-
 Episode 124 :  O’Reilly Media’s Success with Carina Containers
 
 Recorded Live: 11-19-2015
-
-## Participants
-
-### Hosts:
-- Alan Bush: @AlanBush – Rackspace Community Manager
-- Drew Cox: @DrewCoxSA – Rackspace Enterprise Technical Advisor
-
-### Guests:
-- Kyle Kelley: Developer, Carina Containers
-- Andrew Odewahn: @odewahn – CTO, O’Reilly
-- Jason Barnhill: Product Marketing Manager - Rackspace Containers Project
-
 
 ## Highlights
 * Jupyter Project [(5:05)](https://youtu.be/ApJTUkLTr74?t=5m05s)

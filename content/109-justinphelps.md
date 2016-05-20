@@ -3,7 +3,7 @@ Date: 2015-08-11
 Title: Hanging out with Justin Phelps
 author: Alan Bush
 duration: "50:01"
-length: 36010736
+length: 36
 mp3: http://drops.albush.com/Racker%20Spotlight%20-%20Ansible%20Certified%20Engineer%20Justin%20Phelps.mp3
 number: "109"
 ogg: http://drops.albush.com/Racker%20Spotlight%20-%20Ansible%20Certified%20Engineer%20Justin%20Phelps.ogg
@@ -13,6 +13,11 @@ tags:
 - GitHub
 - Static Websites
 youtube_id: t384JnmvcuQ
+hosts:
+- albush
+- drewcox
+guests:
+- jphelps
 ---
 
 Last week's hangout featured a spotlight on Racker Justin Phelps. Justin is a 3 and a half year Racker working in our DevOps Engineering teams. He was one of the first 40 people certified as a SaltStack Engineer, and just this last week earned his Certified Ansible Engineer award.
@@ -20,10 +25,6 @@ Last week's hangout featured a spotlight on Racker Justin Phelps. Justin is a 3 
 We took the time to ask Justin about Ansible, how it can help our customers, and where they can get started with Ansible. We also spent some time talking about creating and hosting static websites, and how to incorporate those into a larger application design.
 
 I had a hard time choosing highlights this week; I could pretty much recommend the entire episode. I have a few links to highlights in the sections below, and the entire video is embedded at the end of the blog post. I hope you enjoy watching as much as I enjoyed hosting.
-
-{{< audio >}}
-
-{{< youtube >}}
 
 ## Ansible's simplicity and consistency
 

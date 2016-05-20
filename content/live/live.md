@@ -23,3 +23,6 @@ tags:
 <!--more-->
 
 {{< crowdcast >}}
+
+Nabeel Shahzad, Software Developer, Cloud Databases.
+Riddhi Shah, Software Developer, Cloud Databases.

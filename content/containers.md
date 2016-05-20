@@ -2,11 +2,11 @@
 author: Alan Bush
 date: 2015-10-29T15:03:51-05:00
 duration: 55:41
-length: 40097436
+length: 40.1
 mp3: http://drops.albush.com/What-are-Containers-and-Why-are-they-Important-to-Application-Development.mp3
 number: 121
 ogg: http://drops.albush.com/What-are-Containers-and-Why-are-they-Important-to-Application-Development.ogg
-ogg_length: 63816411
+ogg_length: 63.8
 summary: "If you haven't already spun up a container on our nearly day-old container service, you might be one of the many people with questions about containers, while we're still in the early adopter phase of this transformative technology. This week our Office Hours Hangout features two of the team that helped to launch Carina. Consider this Containers 101 - we'll help answer all your containers questions, and get you ready to try Carina on your own."
 tags:
 - Rackspace
@@ -16,15 +16,17 @@ tags:
 title: What are Containers, and Why are they Important?
 youtube_id: J1OoVWK1wco
 featured_image: http://drops.albush.com/Rackspace-Office-Hours-Hangout-121.png
+hosts:
+- albush
+- drewcox
+guests:
+- sjakesch
+- jbarnhill
 ---
 
 If you haven't already spun up a container on our nearly day-old container service, you might be one of the many people with questions about containers, while we're still in the early adopter phase of this transformative technology. This week our Office Hours Hangout features two of the team that helped to launch Carina. Consider this Containers 101 - we'll help answer all your containers questions, and get you ready to try Carina on your own.
 
 <!--more-->
-
-{{< audio >}}
-
-{{< youtube >}}
 
 ## Highlights
 

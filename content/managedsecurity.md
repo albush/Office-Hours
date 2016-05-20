@@ -4,9 +4,9 @@ Title: Introducing Rackspace Managed Security
 author: Drew Cox
 mp3: http://drops.albush.com/Introducing-Rackspace-Managed-Security.mp3
 duration: "58:16"
-length: 41958191
+length: 42
 ogg: http://drops.albush.com/Introducing-Rackspace-Managed-Security.ogg
-ogg_length: 75406163
+ogg_length: 75.5
 number: "120"
 summary: Earlier this month we introduced Rackspace Managed Security. We took a closer look at this new offering, and answered customer questions on this week's Office Hours Hangout. 
 tags:
@@ -16,15 +16,16 @@ tags:
 - Fanatical Support
 youtube_id: g9nBwxzH-ms
 featured_image: http://drops.albush.com/120-RMS.png
+hosts:
+- albush
+- drewcox
+guests:
+- jraim
 ---
 
 You can't put a price tag on keeping your customer's data safe. Rackspace Managed Security helps keep that data safe. With a dedicated Security Operations Center, and a full team helping our customers stay ahead of the latest threats, Rackspace's Managed Security services help customers meet compliance needs and protect their data.
 
 <!--more-->
-
-{{< audio >}}
-
-{{< youtube >}}
 
 ## Highlights
 

@@ -3,8 +3,8 @@ Date: 2015-09-03
 Title: Get Savvy about New Relic Insights
 author: Alan Bush
 duration: "49:21"
-length: 35535830
-ogg_length: 113390284
+length: 35.6
+ogg_length: 113.3
 mp3: http://drops.albush.com/Getting-Savvy-on-New-Relic-Insights.mp3
 number: "113"
 ogg: http://drops.albush.com/Getting-Savvy-on-New-Relic-Insights.ogg
@@ -15,15 +15,18 @@ tags:
 - analytics
 - Monitoring
 youtube_id: XaaEVMgu7es
+hosts:
+- albush
+- drewcox
+guests:
+- hshapiro
 ---
 
 Our latest Office Hours Hangout kept us on the topic of Monitoring. [Last week we took a look at Rackspace Intelligence](http://www.rackspace.com/blog/office-hours-hangout-learn-more-about-rackspace-intelligence/), our single pane of glass which gives customers a real-time and comprehensive overview of the health of their infrastructure at one glance. This week we invited our friends from New Relic to join us to discuss their [Insights](http://newrelic.com/insights) platform.
 
 Insights is another real-time analytics tool, but unlike Rackspace Intelligence, Insights gives a look at the application, and more specifically how users are interacting with the application. This podcast was very... (I promised myself I wouldn't make the "insightful" pun again) educational. I was able to select a few highlights to share in the links below, and the full video and audio versions are available below.
 
-{{< audio >}}
-
-{{< youtube >}}
+<!--more-->
 
 ## New Relic Insights overview
 

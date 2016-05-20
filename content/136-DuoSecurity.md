@@ -19,26 +19,17 @@ tags:
 - security
 - multi-factor authentication
 - DuoSecurity
+hosts:
+- albush
+- drewcox
+guests:
+- jgonzalez
 ---
 <!--more-->
-
-{{< audioMB >}}
-
-{{< youtube >}}
 
 Episode 136 :  Why did I just get hacked? [w/ Duo Security]
 
 Recorded Live: 2016-03-03
-
-## Hosts:
-
-- Alan Bush: [@AlanBush](https://twitter.com/alanbush) – Rackspace Community Manager
-- Drew Cox: [@DrewCoxSA](https://twitter.com/drewcoxsa) – Rackspace Enterprise Technical Advisor
-
-
-## Guest:
-
--Joe Gonzalez: Enterprise Solutions Engineer, Duo Security
 
 ## Highlights
 

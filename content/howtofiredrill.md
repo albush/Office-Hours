@@ -4,9 +4,9 @@ Title: How to run a website recovery "fire drill."
 author: Alan Bush
 mp3: http://drops.albush.com/How-to-conduct-a-cloud-fire-drill.mp3
 duration: "59:17"
-length: 42687320
+length: 42.6
 ogg: http://drops.albush.com/How-to-conduct-a-cloud-fire-drill.ogg
-ogg_length: 77619672
+ogg_length: 77.6
 number: "117"
 summary: Do you have a plan for a potential website outage? Do you know if it works? Without verification your plan is only a hunch. You can choose to verify your plan on your own, on purpose, in controlled circumstances; or while your site is down during the biggest day of your career. Having a plan is only half of the equation. Learn how to test your response plan on your own terms, by planning and executing “fire drills.”
 tags:
@@ -16,13 +16,12 @@ tags:
 - Monitoring
 youtube_id: XNhzfvApLNE
 featured_image: http://drops.albush.com/117%20-%20Fire%20Drills%20%281%29.png
+hosts:
+- albush
+- drewcox
 ---
 Do you have a plan for a potential website outage? Do you know if it works? Without verification your plan is only a hunch. You can choose to verify your plan on your own, on purpose, in controlled circumstances; or while your site is down during the biggest day of your career. Having a plan is only half of the equation. Learn how to test your response plan on your own terms, by planning and executing “fire drills.”
 <!--more-->
-
-{{< audio >}}
-
-{{< youtube >}}
 
 ## Highlights
 

@@ -9,33 +9,26 @@ youtube_id: 4h1MHZiX7QQ
 featured_image: http://drops.albush.com/128-Containers-ship.png
 calendar: https://plus.google.com/events/c1qft1h7ok2dddp3nehs39iark4
 duration: 48:16
-length: 34750294
+length: 34.8
 mp3: http://drops.albush.com/Office-Hours-128.mp3
 ogg: http://drops.albush.com/Office-Hours-128.ogg
-ogg_length: 72685371
+ogg_length: 72.7
 tags:
 - Rackspace
 - Containers
 - Docker
+hosts:
+- albush
+- drewcox
+guests:
+- martinb3
+- jseubert
 ---
 <!--more-->
 
 Episode 128 : You resolved to containerize services this year. Now what?
 
 Recorded Live: 1-7-2016
-
-## Participants
-
-**Hosts:**  
-* Alan Bush: [@AlanBush](https://twitter.com/alanbush) – Rackspace Community Manager  
-* Drew Cox: [@DrewCoxSA](https://twitter.com/drewcoxsa) – Rackspace Enterprise Technical Advisor  
-**Guests:**  
-* Martin Smith: [@martinb3](https://twitter.com/martinb3) - Rackspace DevOps Engineer  
-* Justin Seubert: Rackspace DevOps Engineer  
-
-{{< audio >}}
-
-{{< youtube >}}
 
 ## Highlights
 

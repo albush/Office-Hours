@@ -4,9 +4,9 @@ Title: Introducing Fanatical Support for AWS
 author: Alan Bush
 mp3: http://drops.albush.com/Introducing-Fanatical-Support-for-AWS.mp3
 duration: "52:03"
-length: 37472956
+length: 37.5
 ogg: http://drops.albush.com/Introducing-Fanatical-Support-for-AWS.ogg
-ogg_length: 67262245
+ogg_length: 67.3
 number: "119"
 summary: Last week we announced Fanatical Support for Amazon Web Services. This week we answered your questions on our weekly Office Hours Hangout. We brought in two of the people who helped create this new offering together - live - to chat about the new service offering.
 tags:
@@ -16,13 +16,15 @@ tags:
 - Fanatical Support
 youtube_id: h_awwdA81RY
 featured_image: http://drops.albush.com/119%20-%20FAWS.png
+hosts:
+- albush
+- drewcox
+guests:
+- ecarlin
+- tbresse
 ---
 Last week we announced Fanatical Support for Amazon Web Services. This week we answered your questions on our weekly Office Hours Hangout. We brought in two of the people who helped create this new offering together - live - to chat about the new service offering.
 <!--more-->
-
-{{< audio >}}
-
-{{< youtube >}}
 
 ## Highlights
 

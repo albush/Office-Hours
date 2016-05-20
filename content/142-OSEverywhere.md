@@ -18,13 +18,14 @@ tags:
 - Rackspace
 - OpenStack
 - Private Cloud
-
+hosts:
+- albush
+- drewcox
+guests:
+- ryard
+- jsachitano
 ---
 
 Rackspace is now delivering OpenStack everywhere, enabling customers to run a fully-managed OpenStack private cloud in their data center of choice — whether it’s in their own, a third party data center, a Rackspace-supported third party colocation facility or a Rackspace data center.
 
 <!--more-->
-
-{{< audioMB >}}
-
-{{< youtube >}}

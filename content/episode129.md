@@ -3,22 +3,16 @@ author: Alan Bush
 date: 2016-01-18T16:00:00-06:00
 show_date: 2016-01-14T13:00:00-06:00
 number: 129
-summary: "
-It's time for one of our favorite events on Office Hours - chatting with Rackspace CTO John Engates about his annual Cloud Predictions. We'll sit down with John and review his predictions, and discuss what these new trends and technologies will mean for our customers.
-
-Join us live on Thursday, January 14th, or download audio or video podcasts at http://ohpodcast.com
-
-For a preview of John's predictions, check out the Rackspace Blog: http://blog.rackspace.com/cloud-predictions-2016-john-engates/﻿
-"
+summary: "It's time for one of our favorite events on Office Hours - chatting with Rackspace CTO John Engates about his annual Cloud Predictions. We'll sit down with John and review his predictions, and discuss what these new trends and technologies will mean for our customers. For a preview of John's predictions, check out the Rackspace Blog: http://blog.rackspace.com/cloud-predictions-2016-john-engates/"
 title: "Cloud Predictions for 2016 with John Engates"
 playlist_id: PLXK8KWNgW1MsK-GxHnEhPetEiF-DASO4z
 featured_image: https://lh4.googleusercontent.com/-nqpEo8-3pQ8/VoQDB-F16II/AAAAAAAADLI/jSZJxt8PuFo/w2236-h1118-no/2016%2BCloud%2BPredictions%2BLogo.jpg
 calendar: https://plus.google.com/events/c3a2ke4tmgk2rl46m27fvjhlg5c
 duration: 01:00:42
-length: 43700767
+length: 43.7
 mp3: http://drops.albush.com/Cloud-Predictions-for-2016-with-John-Engates.mp3
 ogg: http://drops.albush.com/Cloud-Predictions-for-2016-with-John-Engates.ogg
-ogg_length: 67818354
+ogg_length: 67.8
 tags:
 - Rackspace
 - John Engates
@@ -27,12 +21,11 @@ tags:
 - IOT
 - Virtual Reality
 - Cloud Big Data
+hosts:
+- albush
+- drewcox
 ---
 <!--more-->
-
-{{< audio >}}
-
-{{< youtube_playlist >}}
 
 It's time for one of our favorite events on Office Hours - chatting with Rackspace CTO John Engates about his annual Cloud Predictions. We sat down with John to review his predictions, and discuss what these new trends and technologies will mean for our customers.
 

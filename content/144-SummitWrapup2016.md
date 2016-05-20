@@ -18,12 +18,13 @@ tags:
 - Rackspace
 - OpenStack
 - OpenStack Summit
-
+hosts:
+- albush
+- drewcox
+guests:
+- khui
+- kjackson
 ---
 We've been up in Austin all week with the OpenStack Summit. Today we're chatting with Ken Hui and Kevin Jackson, two OpenStack Rackers about their takeaways from the Summit. What did they learn? What did they share? What can we look forward to from OpenStack in the near future?
 
 <!--more-->
-
-{{< audioMB >}}
-
-{{< youtube >}}

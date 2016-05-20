@@ -10,35 +10,29 @@ youtube_id: OKolgX3jNZ0
 featured_image: http://drops.albush.com/132-aaS-tiny.png
 calendar: https://plus.google.com/events/cvdef0tai2p98du07et8rj1nlio
 duration: "54:57"
-length: 39564733
+length: 39.6
 mp3: http://drops.albush.com/Choosing-between-aaS-and-self-hosted-solutions.mp3
 ogg: http://drops.albush.com/Choosing-between-aaS-and-self-hosted-solutions.ogg
-ogg_length: 70593576
+ogg_length: 70.5
 tags:
 - Rackspace
 - as a Service
 - self-hosted
+hosts:
+- albush
+- drewcox
+guests:
+- bhertzing
+- tklindt
 ---
 
 Is it better to host your own service? or go with a hosted solution? Every application needs to answer this question - often many times over. On this week's Office Hours Hangout we're bringing together a panel to discuss the pros and cons of each approach.
 
 <!--more-->
 
-{{< audio >}}
-
-{{< youtube >}}
-
 Episode 132 :  Choosing between aaS and self-hosted solutions
 
 Recorded Live: 2-4-2016
-
-## Hosts:
-- Alan Bush: [@AlanBush](//twitter.com/alanbush) – Rackspace Community Manager  
-- Drew Cox: [@DrewCoxSA](//twitter.com/drewcoxsa) – Rackspace Enterprise Technical Advisor
-
-## Guests:  
-- Bill Hertzing: [@BillHertzing](//twitter.com/billhertzing) - Cloud Launch Manager II, Managed Operations  
-- Todd Klindt: [@toddklindt](//twitter.com/toddklindt) – SharePoint Architect
 
 ## Highlights
 - as-a-Service [(5:25)](https://youtu.be/OKolgX3jNZ0?t=5m25s)

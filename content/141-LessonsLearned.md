@@ -16,12 +16,10 @@ ogg:
 ogg_length:
 tags:
 - Rackspace
-
+hosts:
+- albush
+- drewcox
 ---
 We've been doing this for three years. A lot has changed. Here's what we've learned.
 
 <!--more-->
-
-{{< audioMB >}}
-
-{{< youtube >}}

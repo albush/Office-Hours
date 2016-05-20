@@ -19,7 +19,10 @@ tags:
 - Solve
 - customers
 - solutions
+hosts:
+- albush
+- drewcox
+guests:
+- ddenny
 ---
 <!--more-->
-
-{{< youtube >}}
