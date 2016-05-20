@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="{{.Site.LanguageCode}}">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no"/>
+  <title>Office Hours Hangouts</title>
+  <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png">
+  <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+  <link rel="icon" type="image/png" href="/favicon-194x194.png" sizes="194x194">
+  <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+  <link rel="icon" type="image/png" href="/android-chrome-192x192.png" sizes="192x192">
+  <link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+  <link rel="manifest" href="/manifest.json">
+  <meta name="msapplication-TileColor" content="#c42126">
+  <meta name="msapplication-TileImage" content="/mstile-144x144.png">
+  <meta name="theme-color" content="#c42126">
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.0/css/materialize.min.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+  <link href="{{.Site.BaseURL}}/css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/8.6/styles/default.min.css">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <style type="text/css">
+  {{if .Site.Params.footerCover}}
+    footer.page-footer{background-image: url({{.Site.Params.footerCover}});}
+  {{else}}
+    footer.page-footer{background-image: url({{.Site.BaseURL}}/images/default.png);}
+  {{end}}
+  </style>
+</head>
+<body>
+  <nav>
+  <a href="{{ .Site.BaseURL }}" class="brand-logo"><img src="//drops.albush.com/faceslogo.png" width="89px" height="55px"></a>
+<ul class="right hide-on-med-and-down">
+  {{ range first 1 .Site.Pages }}
+  {{ with .Params.mp3 }}<li><a class ="tooltipped" data-position="bottom" data-delay="50" data-tooltip="Latest Episode" href="{{ . }}"><i class="fa fa-headphones fa-2x"></i></a></li>{{ end }}
+  {{ end }}
+  {{if .Site.Params.twitter}}
+  <li><a class ="tooltipped" data-position="bottom" data-delay="50" data-tooltip="Our Twitter" href="https://twitter.com/rackerhoa"><i class="fa fa-twitter fa-2x"></i></a></li>
+  {{end}}
+  <li><a class ="tooltipped" data-position="bottom" data-delay="50" data-tooltip="About" href="{{.Site.BaseURL}}/about"><i class="material-icons">info</i></a></li>
+  <li><a class ="tooltipped" data-position="bottom" data-delay="50" data-tooltip="Live Shows" href="{{.Site.BaseURL}}/live"><i class="material-icons">new_releases</i></a></li>
+  <li><a class ="tooltipped" data-position="bottom" data-delay="50" data-tooltip="Participate"href="{{.Site.BaseURL}}/participate"><i class="material-icons">person_add</i></a></li>
+  <li><a class ="tooltipped" data-position="bottom" data-delay="50" data-tooltip="Archive" href="{{.Site.BaseURL}}/archive"><i class="material-icons">subscriptions</i></a></li>
+  <li><a class ="tooltipped" data-position="bottom" data-delay="50" data-tooltip="Subscribe" href="//feeds.feedburner.com/OfficeHoursPodcast"><i class="fa fa-rss fa-2x"></i></a></li>
+</ul>
+<ul id="slide-out" class="side-nav">
+  <li><a href="{{.Site.BaseURL}}">Home</a></li>
+  {{ range first 1 .Site.Pages }}
+  {{ with .Params.mp3 }}<li><a href="{{ . }}">Listen: Latest Episode</i></a></li>{{ end }}
+  {{ end }}
+  {{if .Site.Params.twitter}}
+  <li><a href="https://twitter.com/rackerhoa">Follow on Twitter</i></a></li>
+  {{end}}
+  <li><a href="{{.Site.BaseURL}}/about">About</a></li>
+  <li><a href="{{.Site.BaseURL}}/live">Live Show</a></li>
+  <li><a href="{{.Site.BaseURL}}/participate">Participate</a></li>
+  <li><a href="{{.Site.BaseURL}}/archive">Archive</a></li>
+  <li><a href="//feeds.feedburner.com/OfficeHoursPodcast">Subscribe</a></li>
+
+</ul>
+<a href="#" data-activates="slide-out" class="button-collapse"><i class="mdi-navigation-menu"></i></a>
+</nav>

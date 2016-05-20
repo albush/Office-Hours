@@ -1,0 +1,9 @@
+<div class="container">
+<audio controls>
+        <source src="{{ $.Page.Params.mp3 }}" type="audio/mp4">
+        {{ if $.Page.Params.ogg }}<source src="{{ $.Page.Params.ogg }}" type="audio/ogg">{{end}}
+        Sorry, your browser does not support the <code>audio</code> element.
+</audio><br>
+Download: <a href="{{ $.Page.Params.mp3 }}">MP3</a> ({{ $.Page.Params.length }} MB) {{ if $.Page.Params.ogg }}| <a href="{{ $.Page.Params.ogg }}">OGG</a> {{if $.Page.Params.ogg_length }} ({{ $.Page.Params.ogg_length }} MB) {{end}}{{end}}<br>
+Subscribe: <a href="https://itunes.apple.com/us/podcast/rackspace-office-hours-netcast/id1035176963?mt=2">iTunes</a> | <a href="http://subscribeonandroid.com/feeds.feedburner.com/OfficeHoursPodcast">Android</a> | <a href="https://play.google.com/music/listen#/ps/Ivood5nqrg2b5fltum4b6v72254">Google Play</a> | <a href="http://feeds.feedburner.com/OfficeHoursPodcast">RSS</a>
+</div>

@@ -2,10 +2,16 @@
 *.mp4
 *.flac
 *.aup
+*.au
 *.mov
 *.ai
 *.ogg
+*.au
 
 /admin
 /analytics
 /public
+/assets
+/shows
+
+shows/2015-08-13/WindowsDev.md

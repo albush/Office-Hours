@@ -1,0 +1,22 @@
+theme="material-design"
+baseurl = "http://ohpodcast.com/"
+languageCode = "en-us"
+title = "Rackspace Office Hours NetCast"
+MetaDataFormat = "yaml"
+paginate = 6 # To specify a multiple of 3
+# disqusShortname = "Your Disqus Name" # optional
+copyright = "© 2015"
+
+[params]
+  baseurl = "http://ohpodcast.com/"
+  description = "People you can talk to... about technology."
+  github = "albush/Office-Hours" # optional
+  gplus = "+RackspaceHosting" # optional
+  # about = "about"
+  headerCover = "http://drops.albush.com/fuzzy%20banner1.jpg" # optional
+  footerCover = "http://drops.albush.com/fuzzy%20banner1.jpg" # optional
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  series = "series"

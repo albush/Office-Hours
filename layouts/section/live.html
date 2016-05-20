@@ -1,0 +1,43 @@
+{{ partial "singleheader.html" . }}
+{{ $baseurl := .Site.BaseURL }}
+<div class="row">
+</div>
+<div class="row">
+    <div class="card-panel">
+      <div class="row">
+
+      {{ range first 1 .Site.Pages }}
+      <!-- media embed checkdown -->
+        <!-- Crowdcast Embed -->
+        {{ if .Params.crowdcast_id }}
+          {{ with .Params.crowdcast_id }}
+          <iframe width="100%" height="1000" frameborder="0" marginheight="0" marginwidth="0" allowtransparency="true" src="https://www.crowdcast.io/e/{{ . }}?navlinks=false&embed=true" style="border: 1px solid #EEE;"></iframe>
+          {{ end }}
+        <!-- End Crowdcast Embed -->
+        {{ else if .Params.youtube_id }}
+        <div class="video-container">
+        <iframe class="youtube-player" type="text/html" width="560" height="315" {{ with .Params.youtube_id }} src="http://www.youtube.com/embed/{{ . }}"{{ end }} allowfullscreen frameborder="0">
+        </iframe>
+        </div>
+        {{ else if .Params.playlist_id }}
+        <div class="video-container">
+        <iframe class="youtube-player" type="text/html" width="560" height="315" {{ with .Params.playlist_id }} src="https://www.youtube.com/embed/videoseries?list={{ . }}"{{ end }} allowfullscreen frameborder="0">
+        </iframe>
+        </div>
+        {{ else }}
+        <div class="video-container">
+        <iframe class="youtube-player" type="text/html" width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLXK8KWNgW1Ms1ROsbIhOg6kJV2eOqAP3Y" allowfullscreen frameborder="0">
+        </iframe>
+        </div>
+        {{ end }}
+        <!-- end checkdown -->
+
+
+
+      {{ end }}
+
+      </div>
+</div>
+    </div>
+
+</div>
