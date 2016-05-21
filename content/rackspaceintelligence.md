@@ -13,6 +13,7 @@ tags:
 - monitoring
 - Analytics
 - Alerts
+featured_image: http://drops.albush.com/hangout112-Intelligence.png
 title: Learn More about Rackspace Intelligence
 youtube_id: Sld-_RWDrVQ
 hosts:

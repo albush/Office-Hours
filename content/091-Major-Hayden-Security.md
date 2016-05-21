@@ -1,9 +1,10 @@
 ---
 Author: Alan Bush
 Date: 2015-03-12
-Title: Talking Cloud Security  and More  with Racker Major Hayden
-duration: "52:50"
-length: 50722689
+Title: Talking Cloud Security and More with Racker Major Hayden
+duration: "53:19"
+length: 38.4
+ogg_length: 118.3
 mp3: http://drops.albush.com/Talking-Cloud-Security-and-More-with-Racker-Major-Hayden.mp3
 number: "091"
 ogg: http://drops.albush.com/Talking-Cloud-Security-and-More-with-Racker-Major-Hayden.ogg
@@ -14,11 +15,12 @@ tags:
 - Rackspace
 - Major Hayden
 youtube_id: n8Cpaxhzd80
+hosts:
+- albush
+- drewcox
+guests:
+- mhayden
 ---
-
-{{< audio >}}
-
-{{< youtube >}}
 
 ## Highlights
 

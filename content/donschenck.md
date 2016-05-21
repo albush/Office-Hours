@@ -7,6 +7,7 @@ mp3: http://drops.albush.com/Windows%20Development%20with%20Rackspace%20Develope
 number: "110"
 ogg: http://drops.albush.com/Windows%20Development%20with%20Rackspace%20Developer%20Don%20Schenck.ogg
 summary: 'We were joined by Rackspace Developer Don Schenck, to talk about his OpenStack automation utility for PowerShell: PoshStack. We also discussed how Don went about building PoshStack, and many of the lessons he learned while developing it.'
+featured_image: http://drops.albush.com/hangout110-windows.png
 tags:
 - PowerShell
 - PoshStack

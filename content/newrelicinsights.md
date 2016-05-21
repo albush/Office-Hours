@@ -9,6 +9,7 @@ mp3: http://drops.albush.com/Getting-Savvy-on-New-Relic-Insights.mp3
 number: "113"
 ogg: http://drops.albush.com/Getting-Savvy-on-New-Relic-Insights.ogg
 summary: We take a look at New Relic's newish platform for real-time data analytics. This is a great tool for making data-driven decisions for your business.
+featured_image: 
 tags:
 - New Relic
 - data-driven decisions

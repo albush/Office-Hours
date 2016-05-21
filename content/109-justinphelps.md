@@ -13,6 +13,7 @@ tags:
 - GitHub
 - Static Websites
 youtube_id: t384JnmvcuQ
+featured_image: http://drops.albush.com/Ansible%20Justin%20Phelps.png
 hosts:
 - albush
 - drewcox

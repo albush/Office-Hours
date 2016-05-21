@@ -9,9 +9,9 @@
 - Jason Barnhill: Rackspace Containers Project
 - Simon Jakesch: Rackspace Containers Project
 - Brint O'Hearn: [@brintly](https://twitter.com/brintly) – OpenStack Architect (brintly)
-* Martin Smith: [@martinb3](https://twitter.com/martinb3) - Rackspace DevOps Engineer  
-* Jim Rosser: [@jarosser06](https://twitter.com/@jarosser06) - Rackspace DevOps Engineer
-* Elizabeth Jurewicz: [@creatingliz](https://twitter.com/creatingliz) - Social Media Strategist, Rackspace
+- Martin Smith: [@martinb3](https://twitter.com/martinb3) - Rackspace DevOps Engineer  
+- Jim Rosser: [@jarosser06](https://twitter.com/@jarosser06) - Rackspace DevOps Engineer
+- Elizabeth Jurewicz: [@creatingliz](https://twitter.com/creatingliz) - Social Media Strategist, Rackspace
 - Walter Bentley: [@djstayflypro](https://twitter.com/djstayflypro) – OpenStack Architect
 - Joe Sachatino: @jsach21 -
 - Ryan Yard
@@ -20,11 +20,11 @@
 - Bill Hertzing: [@BillHertzing](//twitter.com/billhertzing) - Cloud Launch Manager II, Managed Operations  
 - Todd Klindt: [@toddklindt](//twitter.com/toddklindt) – SharePoint Architect
 - Erik Carlin
-- Tom Bresse
+- Tom Bressie
 - jengates
 - agermanow
-- rchapa
-- mrichins
+- rchapa @ImAProcessNerd
+- mrichins 	Senior Solution Architect, Specialty Domain
 - jcampbell
 - jashcraft
 - jraim
@@ -32,10 +32,11 @@
 - Kyle Kelley: Developer, Carina Containers
 - Andrew Odewahn: @odewahn – CTO, O’Reilly
 - Jason Barnhill: Product Marketing Manager - Rackspace Containers Project
-- David Dunlop software engineering manager
+- jseubert Justin Seubert
+- David Dunlop software engineering manager Insights
 - mgraham
 - jcoldwater
 - jgreen
 - jengel - @joe_racker Data Engineer
-- Bill Anderson
+- Bill Anderson @ucntcme 
 - Matt Barker

@@ -34,7 +34,9 @@
             {{ end }}
           {{end}}
           </p>
+          {{ if .Params.summary }}
           <p>{{ .Params.summary | markdownify }}</p>
+          {{ end }}
           <!-- Audio Controls -->
           {{ if .Params.mp3 }}
           <div class="container">
@@ -67,7 +69,7 @@
             {{ end }}
             <!-- end checkdown -->
           <!-- Here's where the participant stuff goes -->
-          <p><h2>Participnts</h2></p>
+          <p><h2>Participants</h2></p>
           <p><b>Hosts:</b></p>
     {{ range $person :=.Params.hosts }}<li>
       {{ if isset $.Site.Data.hosts $person }}

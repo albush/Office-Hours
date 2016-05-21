@@ -12,6 +12,7 @@ tags:
 - Rackspace
 - ecommerce
 title: Winter is Coming New and Improved Rackspace Tools for Black Friday Success
+featured_image: http://drops.albush.com/hangout111-winter.png
 youtube_id: AHK7EnELGN4
 hosts:
 - albush

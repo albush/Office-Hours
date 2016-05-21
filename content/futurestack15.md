@@ -25,6 +25,4 @@ guests:
 - mrichins
 ---
 
-We take our show on the road for the first time, to New Relic's FutureStack conference. Great on-the-scene interviews with Rackspace CTO John Engates, 2 Rackers who presented at the conference, Matt Richins and Robert Chapa, and Sr. Strategy Director from New Relic, Abner Germanow.
-
 <!--more-->

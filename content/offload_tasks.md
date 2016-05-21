@@ -2,8 +2,9 @@
 author: Alan Bush
 date: 2015-09-17
 duration: "46:24"
-length: 33413015
-ogg_length: 33507651
+length: 33.4
+ogg_length: 32
+featured_image: http://drops.albush.com/115-Stuff.png
 mp3: http://drops.albush.com/Offload-these-3-tasks-for-a-smoother-Black-Friday.mp3
 number: "115"
 ogg: http://drops.albush.com/Offload-these-3-tasks-for-a-smoother-Black-Friday.ogg
