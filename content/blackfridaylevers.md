@@ -2,7 +2,7 @@
 author: Alan Bush
 date: 2015-09-10
 duration: "59:56"
-length: 57538350
+length: 57.5
 mp3: http://drops.albush.com/Fine-tuning-your-ecommerce-site-for-Black-Friday-success.mp3
 number: "114"
 ogg: http://drops.albush.com/Fine-tuning-your-ecommerce-site-for-Black-Friday-success.ogg
@@ -14,14 +14,16 @@ tags:
 - ecommerce
 title: Fine-Tune your site for Black Friday and Cyber Monday
 youtube_id: vnhwOybP6Ys
+hosts:
+- albush
+- drewcox
+guests:
+- cbowe
 ---
 
 We're focusing our Office Hours Hangouts on Black Friday and Cyber Monday as we approach the big online shopping holiday weekend. We have covered new and improved Rackspace Tools for a successful Black Friday, monitoring infrastructure with Rackspace Intelligence, real-time application analytics with New Relic Insights; so this week we brought it all together with a discussion of the different "levers" our customers can use to fine-tune their site for Black Friday and Cyber Monday success.
 
 <!--more-->
-{{< audio >}}
-
-{{< youtube >}}
 
 ## Highlights
 

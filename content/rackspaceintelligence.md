@@ -2,7 +2,7 @@
 author: Alan Bush
 date: 2015-08-27
 duration: "59:46"
-length: 43032137
+length: 43
 mp3: http://drops.albush.com/Learn%20more%20about%20Rackspace%20Intelligence.mp3
 number: "112"
 ogg: http://drops.albush.com/Learn%20more%20about%20Rackspace%20Intelligence.ogg
@@ -13,16 +13,19 @@ tags:
 - monitoring
 - Analytics
 - Alerts
+featured_image: http://drops.albush.com/hangout112-Intelligence.png
 title: Learn More about Rackspace Intelligence
 youtube_id: Sld-_RWDrVQ
+hosts:
+- albush
+- drewcox
+guests:
+- ddunlop
 ---
 
 On [last week's Office Hours Hangout](http://www.rackspace.com/blog/black-friday-is-coming/), cohost Drew Cox and I discussed several new tools, features, and products Rackspace has released in the last year that we think will be most helpful to customers going into the 2015 Black Friday season. One that we are both very excited about is [Rackspace Intelligence](http://www.rackspace.com/blog/rackspace-intelligence-new-features/), our new single pane of glass which gives customers a real-time and comprehensive overview of the health of their infrastructure at one glance. This week we took a deep dive into Intelligence with Intelligence's software engineering manager, David Dunlop. I've highlighted a few key moments, and the entire video is available below.
 
 <!--more-->
-{{< audio >}}
-
-{{< youtube >}}
 
 We started with a [discussion of what Rackspace Monitoring can monitor](https://youtu.be/Sld-_RWDrVQ?t=8m21s), including server performance, availability, and any errors reported from the site. Monitoring can also [trigger alarms](https://youtu.be/Sld-_RWDrVQ?t=13m32s) to designated recipients if the system detects anything outside of preconfigured ranges. David set out some examples of how customers might want to [establish thresholds to trigger alarms](https://youtu.be/Sld-_RWDrVQ?t=17m00s).
 

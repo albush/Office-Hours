@@ -2,8 +2,9 @@
 author: Alan Bush
 date: 2015-09-17
 duration: "46:24"
-length: 33413015
-ogg_length: 33507651
+length: 33.4
+ogg_length: 32
+featured_image: http://drops.albush.com/115-Stuff.png
 mp3: http://drops.albush.com/Offload-these-3-tasks-for-a-smoother-Black-Friday.mp3
 number: "115"
 ogg: http://drops.albush.com/Offload-these-3-tasks-for-a-smoother-Black-Friday.ogg
@@ -16,6 +17,9 @@ tags:
 - cascarone
 title: Offload these 3 tasks for a smoother Black Friday
 youtube_id: nuACQQsp4ko
+hosts:
+- albush
+- drewcox
 ---
 
 We had a fun show this week, taking a quick look at 3 specific tasks to take off your plate this Black Friday. We also had a surprise celebration of my 3 years as a Racker.
@@ -24,12 +28,6 @@ We had a fun show this week, taking a quick look at 3 specific tasks to take off
 
 <!--more-->
 Continuing with our Black Friday theme, we featured 3 tasks our customers can offload - to Rackspace or 3rd party partners - so that they can focus on their core business, and getting customers to their eCommerce site during Black Friday and Cyber Monday.
-
-{{< audio >}}
-
-{{< youtube >}}
-
-
 
 ## Highlights
 

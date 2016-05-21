@@ -2,7 +2,7 @@
 author: Alan Bush
 date: 2015-08-20
 duration: "01:01:31"
-length: 44290173
+length: 44.3
 mp3: http://drops.albush.com/Brace%20Yourselves%252C%20Our%20Annual%20Winter%20is%20Coming%20Shows%20are%20Coming.mp3
 number: "111"
 ogg: http://drops.albush.com/Brace%20Yourselves%252C%20Our%20Annual%20Winter%20is%20Coming%20Shows%20are%20Coming.ogg
@@ -12,14 +12,14 @@ tags:
 - Rackspace
 - ecommerce
 title: Winter is Coming New and Improved Rackspace Tools for Black Friday Success
+featured_image: http://drops.albush.com/hangout111-winter.png
 youtube_id: AHK7EnELGN4
+hosts:
+- albush
+- drewcox
 ---
 
 It's never too early to start thinking about Black Friday. With only three months left before the largest online shopping weekend returns, we spent our latest Office Hours Hangout talking about tips for thriving on Black Friday, including four new and/or improved Rackspace Products that will help our customers' Black Friday go off without a hitch.
-
-{{< audio >}}
-
-{{< youtube >}}
 
 We've discussed scaling for high traffic events — that's practically why we created the Hangout in the first place — but started off this episode with a quick primer on how we [recommend most apps scale][1]. Even if it's not time to scale yet, customers who have built on the "[Seed Config][2]" are scale ready.
 

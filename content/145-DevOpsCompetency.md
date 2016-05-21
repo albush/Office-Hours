@@ -18,28 +18,17 @@ tags:
 - Rackspace
 - AWS
 - DevOps
-
+hosts:
+- albush
+- drewcox
+guests:
+- brintly
 ---
 Episode 145 : How Rackspace Delivers DevOps Competency
 
 Recorded Live: 5-5-2016
 
 <!--more-->
-
-{{< audioMB >}}
-
-{{< youtube >}}
-
-## Participants
-
-**Hosts:**  
-
-- Alan Bush: [@AlanBush](https://twitter.com/alanbush) – Rackspace Community Manager  
-- Drew Cox: [@DrewCoxSA](https://twitter.com/drewcoxsa) – Rackspace Enterprise Technical Advisor  
-
-**Guest:**  
-
-- Brint O'Hearn: [@brintly](https://twitter.com/brintly) – OpenStack Architect
 
 ## Highlights
 - What is DevOps? [(3:25)](https://youtu.be/_96ESw4ZXoA?t=3m25s)

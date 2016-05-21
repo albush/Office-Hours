@@ -9,35 +9,28 @@ youtube_id: 6ioYKgr6Tms
 featured_image: http://drops.albush.com/126-ApacheSpark.png
 calendar: https://plus.google.com/events/cv7saq59n8k5v508fcs09a640j0
 duration: 40:47
-length: 29365185
+length: 29.4
 mp3: http://drops.albush.com/Office-Hours-Hangout-Big-Data-Apache-Spark.mp3
 ogg: http://drops.albush.com/Office-Hours-Hangout-Big-Data-Apache-Spark.ogg
-ogg_length: 45335307
+ogg_length: 45.3
 tags:
 - Rackspace
 - Big Data
 - Apache Spark
 - Hadoop
+hosts:
+- albush
+- drewcox
+guests:
+- cgotcher
+- nranganathan
+- ghill
 ---
 *Recorded Live: 12-10-2015*  
 
 We had a great show this week, with guests from our data services team talking Big Data. Apache Spark is a very powerful tool to hold bring together many elements of the Hadoop ecosystem. This was a great deeper dive into the world of Big Data, with some good advice on getting started with Big Data.
 
 <!--more-->
-
-{{< audio >}}
-
-{{< youtube >}}
-
-## Participants
-##### Hosts:
-Alan Bush: [@AlanBush](https://twitter.com/alanbush) – Rackspace Technical Community Manager  
-Drew Cox: [@DrewCoxSA](https://twitter.com/DrewCoxSA) – Rackspace Enterprise Technical Advisor
-
-#### Guests:
-Nirmal Ranganathan: [@RNirmal](https://twitter.com/RNirmal) - Principal Engineer  
-Greg Hill: [@jimbobhickville](https://twitter.com/jimbobhickville) - Software Developer, Cloud Provisioning  
-Casey Gotcher:  Product Manager, Big Data  
 
 ## Highlights
 

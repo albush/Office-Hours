@@ -2,11 +2,12 @@
 author: Alan Bush
 date: 2015-08-18T13:49:24-05:00
 duration: "54:56"
-length: 39556388
+length: 39.6
 mp3: http://drops.albush.com/Windows%20Development%20with%20Rackspace%20Developer%20Don%20Schenck.mp3
 number: "110"
 ogg: http://drops.albush.com/Windows%20Development%20with%20Rackspace%20Developer%20Don%20Schenck.ogg
 summary: 'We were joined by Rackspace Developer Don Schenck, to talk about his OpenStack automation utility for PowerShell: PoshStack. We also discussed how Don went about building PoshStack, and many of the lessons he learned while developing it.'
+featured_image: http://drops.albush.com/hangout110-windows.png
 tags:
 - PowerShell
 - PoshStack
@@ -14,13 +15,15 @@ tags:
 - Development
 title: Lessons Learned in Opens Source Development
 youtube_id: u7dlGhhQ48k
+hosts:
+- albush
+guests:
+- donschenck
 ---
 
 If you're curious how a Windows developer would go about starting an open source project, you aren't alone. In fact, our most recent Office Hours Hangout guest, Don Schecnk, found himself ready to start an open source project, and didn't know where to start. Fortunately for us, he documented his process, and spoke with us about it on our hangout. We didn't just cover the process, we also covered the product of his efforts, PoshStack, the PowerShell client for OpenStack. I'm including a few selected highlights, but the entire video can be viewed below. This was a fun interview - I know I learned a lot.
 
-{{< audio >}}
-
-{{< youtube >}}
+<!--more-->
 
 ## PoshStack
 

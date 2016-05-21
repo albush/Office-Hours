@@ -18,7 +18,11 @@ tags:
 - Rackspace
 - OpenStack
 - Walter Bentley
-
+hosts:
+- albush
+- drewcox
+guests:
+- wbentley
 ---
 
 Episode 143 : A pre-Summit chat with OpenStack Architect & Author Walter Bentley
@@ -28,21 +32,6 @@ The OpenStack Summit kicks off next week in Austin, and we're getting ready by h
 Recorded Live: 4-21-2016
 
 <!--more-->
-
-{{< audioMB >}}
-
-{{< youtube >}}
-
-## Participants
-
-**Hosts:**  
-
-- Alan Bush: [@AlanBush](https://twitter.com/alanbush) – Rackspace Community Manager  
-- Drew Cox: [@DrewCoxSA](https://twitter.com/drewcoxsa) – Rackspace Enterprise Technical Advisor  
-
-**Guests:**  
-
-- Walter Bentley: [@djstayflypro](https://twitter.com/djstayflypro) – OpenStack Architect
 
 ## Highlights
 

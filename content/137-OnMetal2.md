@@ -19,25 +19,17 @@ tags:
 - Cloud Servers
 - OnMetal
 - Product Announcement
+hosts:
+- albush
+- drewcox
+guests:
+- tfduesing
 ---
 Episode 137 : The latest from OnMetal
 
 Recorded Live: 2016-03-10
 
 <!--more-->
-
-{{< audioMB >}}
-
-{{< youtube >}}
-
-## Hosts:
-
-- Alan Bush: [@AlanBush](https://twitter.com/alanbush) – Rackspace Community Manager
-- Drew Cox: [@DrewCoxSA](https://twitter.com/drewcoxsa) – Rackspace Enterprise Technical Advisor
-
-## Guest:
-Thomas Duesing: [@TFDuesing](https://twitter.com/tfduesing) – Product Manager, OnMetal
-
 
 ## Highlights
 

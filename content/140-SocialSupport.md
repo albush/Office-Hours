@@ -24,16 +24,6 @@ How does Rackspace support customers where they are - including Social Media? Jo
 
 <!--more-->
 
-{{< audioMB >}}
-
-{{< crowdcast >}}
-
-**Hosts:**  
-* Alan Bush: [@AlanBush](https://twitter.com/alanbush) – Rackspace Community Manager  
-* Drew Cox: [@DrewCoxSA](https://twitter.com/drewcoxsa) – Rackspace Enterprise Technical Advisor  
-**Guests:**  
-* Elizabeth Jurewicz: [@creatingliz](https://twitter.com/creatingliz) - Social Media Strategist, Rackspace
-
 ## Highlights
 
 - Fanatical social support [(2:48)](https://youtu.be/PgUscrgwrzc?t=2m48s)

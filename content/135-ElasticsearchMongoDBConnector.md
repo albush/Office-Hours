@@ -18,28 +18,19 @@ tags:
 - Rackspace
 - Elasticsearch
 - MongoDB
+hosts:
+- albush
+- drewcox
+guests:
+- khigbee
 ---
 One of our first hangouts this year was an interview with our CTO John Engates. One of his Cloud Predictions for 2016 was that our customers would find new ways to use their existing data. The release of the MongoDB to Elasticsearch Data Connector makes that not only possible, but easy to achieve. On this week's Office Hours Hangout we chatted with ObjectRocket Senior Manager of Software Development, Keith Higbee about the connector, why we built it, and how our customers can start using it.
 
 <!--more-->
 
-{{< audioMB >}}
-
-{{< youtube >}}
-
 Episode 135 :  Elasticsearch and MongoDB Data Connector
 
 Recorded Live: 2016-02-25
-
-## Hosts:
-
-- Alan Bush: [@AlanBush](https://twitter.com/alanbush) – Rackspace Community Manager
-- Drew Cox: [@DrewCoxSA](https://twitter.com/drewcoxsa) – Rackspace Enterprise Technical Advisor
-
-## Guests:
-
-- Keith Higbee: [@KeithHigbee](https://twitter.com/keithhigbee) – Senior Manager, Software Development, ObjectRocket
-
 
 ## Highlights
 

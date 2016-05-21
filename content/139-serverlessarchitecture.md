@@ -19,6 +19,12 @@ tags:
 - AWS Lambda Functions
 - Serverless Architecture
 - Fanatical Support for AWS
+hosts:
+- albush
+- drewcox
+guests:
+- martinb3
+- jrosser 
 ---
 Office Hours Hangout 139: Serverless architectures
 
@@ -27,16 +33,3 @@ Recorded live: 2016-03-24
 One of the more interesting new developments in Cloud Computing is Lambda Functions by AWS. What are these? How has it changed Architecture? Join our guest Martin Smith as he introduces us to these new tools.
 
 <!--more-->
-
-{{< audioMB >}}
-
-{{< crowdcast >}}
-
-## Participants
-
-**Hosts:**  
-* Alan Bush: [@AlanBush](https://twitter.com/alanbush) – Rackspace Community Manager  
-* Drew Cox: [@DrewCoxSA](https://twitter.com/drewcoxsa) – Rackspace Enterprise Technical Advisor  
-**Guests:**  
-* Martin Smith: [@martinb3](https://twitter.com/martinb3) - Rackspace DevOps Engineer  
-* Jim Rosser: [@jarosser06](https://twitter.com/@jarosser06) - Rackspace DevOps Engineer  

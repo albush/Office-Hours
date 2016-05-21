@@ -34,6 +34,60 @@
             {{ end }}
           {{end}}
           </p>
+          {{ if .Params.summary }}
+          <p>{{ .Params.summary | markdownify }}</p>
+          {{ end }}
+          <!-- Audio Controls -->
+          {{ if .Params.mp3 }}
+          <div class="container">
+          <audio controls>
+                  <source src="{{ .Params.mp3 }}" type="audio/mp4">
+                  {{ if .Params.ogg }}<source src="{{ .Params.ogg }}" type="audio/ogg">{{end}}
+                  Sorry, your browser does not support the <code>audio</code> element.
+          </audio><br>
+          Download: <a href="{{ .Params.mp3 }}">MP3</a> ({{ .Params.length }} MB) {{ if .Params.ogg }}| <a href="{{ .Params.ogg }}">OGG</a> {{if .Params.ogg_length }} ({{ .Params.ogg_length }} MB) {{end}}{{end}}<br>
+          Subscribe: <a href="https://itunes.apple.com/us/podcast/rackspace-office-hours-netcast/id1035176963?mt=2">iTunes</a> | <a href="http://subscribeonandroid.com/feeds.feedburner.com/OfficeHoursPodcast">Android</a> | <a href="https://play.google.com/music/listen#/ps/Ivood5nqrg2b5fltum4b6v72254">Google Play</a> | <a href="http://feeds.feedburner.com/OfficeHoursPodcast">RSS</a>
+        </div><br>
+        {{ end }}
+          <!-- End Audio Controls -->
+          <!-- Episode Recap media embed checkdown -->
+            {{ if .Params.youtube_id }}
+            <div class="video-container">
+            <iframe class="youtube-player" type="text/html" width="560" height="315" {{ with .Params.youtube_id }} src="http://www.youtube.com/embed/{{ . }}"{{ end }} allowfullscreen frameborder="0">
+            </iframe>
+            </div>
+            {{ else if .Params.playlist_id }}
+            <div class="video-container">
+            <iframe class="youtube-player" type="text/html" width="560" height="315" {{ with .Params.playlist_id }} src="https://www.youtube.com/embed/videoseries?list={{ . }}"{{ end }} allowfullscreen frameborder="0">
+            </iframe>
+            </div>
+            {{ else }}
+            <div class="video-container">
+            <iframe class="youtube-player" type="text/html" width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLXK8KWNgW1Ms1ROsbIhOg6kJV2eOqAP3Y" allowfullscreen frameborder="0">
+            </iframe>
+            </div>
+            {{ end }}
+            <!-- end checkdown -->
+          <!-- Here's where the participant stuff goes -->
+          <p><h2>Participants</h2></p>
+          <p><b>Hosts:</b></p>
+    {{ range $person :=.Params.hosts }}<li>
+      {{ if isset $.Site.Data.hosts $person }}
+      {{ $p :=  (index $.Site.Data.hosts $person) }}
+      <ul>{{ $p.FullName }}: {{ if isset $p "Twitter" }}<a href = "https://twitter.com/{{ $p.Twitter }}">@{{ $p.Twitter }}</a>{{ end }} - {{ if isset $p "Title" }}{{ $p.Title | markdownify }}{{ end }}{{ if isset $p "Company" }} at {{ $p.Company | markdownify }}{{ end }}</ul>
+        {{ end }}
+    {{ end }}</li>
+
+    <p><b>Guests:</b></p>
+    {{ range $person :=.Params.guests }}<li>
+    {{ if isset $.Site.Data.guests $person }}
+    {{ $p :=  (index $.Site.Data.guests $person) }}
+
+    <ul>{{ $p.FullName }}: {{ if isset $p "Twitter" }}<a href = "https://twitter.com/{{ $p.Twitter }}">@{{ $p.Twitter }}</a> - {{ end }}{{ if isset $p "Title" }}{{ $p.Title | markdownify }}{{ end }}{{ if isset $p "Company" }} at {{ $p.Company | markdownify }}{{ end }}</ul>
+    {{ end }}</li>
+    {{ end }}
+
+          <!-- End of participant info -->
           <p>{{ .Content }}</p>
           <p>{{ .Date.Format "2006-01-02" }}
             {{if .Params.tags }}

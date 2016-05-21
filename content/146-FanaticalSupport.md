@@ -17,7 +17,11 @@ ogg_length: 99.5
 tags:
 - Rackspace
 - Fanatical Support
-
+hosts:
+- albush
+- drewcox
+guests:
+- apape
 ---
 
 Episode 146
@@ -25,21 +29,6 @@ Episode 146
 Recorded Live 2016-05-12
 
 <!--more-->
-
-{{< audioMB >}}
-
-{{< youtube >}}
-
-## Participants
-
-**Hosts:**  
-
-- Alan Bush: [@AlanBush](https://twitter.com/alanbush) – Rackspace Community Manager  
-- Drew Cox: [@DrewCoxSA](https://twitter.com/drewcoxsa) – Rackspace Enterprise Technical Advisor  
-
-**Guest:**  
-
-- Andy Pape: [@racker_andy](https://twitter.com/racker_andy) – Rackspace Manager of Social Media Response
 
 ## Highlights
 

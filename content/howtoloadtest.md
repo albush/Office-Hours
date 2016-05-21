@@ -4,22 +4,24 @@ Title: How to load test your website before a big event like Black Friday
 author: Alan Bush
 mp3: http://drops.albush.com/How-to-load-test-your-website-before-a-big-event-like-Black-Friday.mp3
 duration: "54:26"
-length: 39188375
+length: 39.2
 ogg: http://drops.albush.com/How-to-load-test-your-website-before-a-big-event-like-Black-Friday.ogg
-ogg_length: 68465422
+ogg_length: 68.5
 number: "116"
 summary: So you've got a big event like Black Friday coming up. Will your website be able to handle the extra volume of traffic? If you don't know (hint, you should know) then it's time to do some load testing. We'll look at a few techniques to load test your site before your big event.
 tags:
 - Black Friday
 - Load Testing
 youtube_id: ivrMJ6IETuA
+hosts:
+- albush
+- drewcox
+guests:
+- jcampbell
+- jashcraft
 ---
 
-How do you load test your site before you have a big event? What part(s) of the site need to be tested? How do you monitor testing results? There's a lot to learn about load testing. Fortunately for us, two of our resident experts joined us on the hangout to discuss who, what, when, where, why, and how to load test. 
-
-{{< audio >}}
-
-{{< youtube >}}
+How do you load test your site before you have a big event? What part(s) of the site need to be tested? How do you monitor testing results? There's a lot to learn about load testing. Fortunately for us, two of our resident experts joined us on the hangout to discuss who, what, when, where, why, and how to load test.
 
 ## Highlights
 
