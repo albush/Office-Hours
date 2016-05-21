@@ -1,0 +1,85 @@
+/* Custom Stylesheet */
+
+a {
+  color: #C40022;
+}
+
+nav {
+  background-color: #C40022;
+}
+
+nav ul a,
+nav .brand-logo {
+  color: #FFF;
+  padding-left: 20px;
+}
+p {
+  line-height: 2rem;
+}
+
+.btn, .btn:hover {
+  margin: 10px;
+  background-color: #C40022;
+}
+
+.btn-large {
+  background-color: #C40022;
+}
+
+.button-collapse {
+  color: #FFF;
+}
+
+input[type=text]:focus:not([readonly]), input[type=password]:focus:not([readonly]), input[type=email]:focus:not([readonly]), input[type=url]:focus:not([readonly]), input[type=time]:focus:not([readonly]), input[type=date]:focus:not([readonly]), input[type=datetime-local]:focus:not([readonly]),
+input[type=tel]:focus:not([readonly]), input[type=number]:focus:not([readonly]), input[type=search]:focus:not([readonly]), textarea.materialize-textarea:focus:not([readonly]){
+  border-bottom: 1px solid #C40022;
+  box-shadow: 0 1px 0 0 #C40022;
+}
+
+[type="radio"]:checked+label:after{
+  border: 2px solid #C40022;
+    background-color: #C40022;
+}
+
+.parallax-container {
+  min-height: 275px;
+  line-height: 0;
+  height: auto;
+  color: rgba(255,255,255,.9);
+}
+  .parallax-container .section {
+    width: 100%;
+  }
+
+@media screen, projection {
+  audio, canvas, progress, video {
+      display: inline-block;
+      vertical-align: baseline;
+      width: 100%;
+  }
+}
+
+@media only screen and (max-width : 992px) {
+  .parallax-container .section {
+    position: absolute;
+    top: 40%;
+  }
+  #index-banner .section {
+    top: 10%;
+  }
+}
+
+@media only screen and (max-width : 600px) {
+  #index-banner .section {
+    top: 0;
+  }
+}
+
+
+.icon-block {
+  padding: 0 15px;
+}
+
+footer.page-footer {
+  margin: 0;
+}

@@ -1,0 +1,42 @@
+- Keith Higbee: [@KeithHigbee](https://twitter.com/keithhigbee) – Senior Manager, Software Development, ObjectRocket
+- Joe Gonzalez: Enterprise Solutions Engineer, Duo Security
+- Thomas Duesing: [@TFDuesing](https://twitter.com/tfduesing) – Product Manager, OnMetal
+- Travis Mercier: [@TMMercier87](https://twitter.com/TMMercier87) – Manager, CSOC
+- Nirmal Ranganathan: [@RNirmal](https://twitter.com/RNirmal) - Principal Engineer  
+- Greg Hill: [@jimbobhickville](https://twitter.com/jimbobhickville) - Software Developer, Cloud Provisioning  
+- Casey Gotcher:  Product Manager, Big Data
+- Chris Bowe
+- Jason Barnhill: Rackspace Containers Project
+- Simon Jakesch: Rackspace Containers Project
+- Brint O'Hearn: [@brintly](https://twitter.com/brintly) – OpenStack Architect (brintly)
+- Martin Smith: [@martinb3](https://twitter.com/martinb3) - Rackspace DevOps Engineer  
+- Jim Rosser: [@jarosser06](https://twitter.com/@jarosser06) - Rackspace DevOps Engineer
+- Elizabeth Jurewicz: [@creatingliz](https://twitter.com/creatingliz) - Social Media Strategist, Rackspace
+- Walter Bentley: [@djstayflypro](https://twitter.com/djstayflypro) – OpenStack Architect
+- Joe Sachatino: @jsach21 -
+- Ryan Yard
+- donschenck
+- Tim Banks: [@elchefe](//twitter.com/elchefe) DevOps Engineer, Object Rocket, Inc.
+- Bill Hertzing: [@BillHertzing](//twitter.com/billhertzing) - Cloud Launch Manager II, Managed Operations  
+- Todd Klindt: [@toddklindt](//twitter.com/toddklindt) – SharePoint Architect
+- Erik Carlin
+- Tom Bressie
+- jengates
+- agermanow
+- rchapa @ImAProcessNerd
+- mrichins 	Senior Solution Architect, Specialty Domain
+- jcampbell
+- jashcraft
+- jraim
+- hshapiro - Insights Product Manager Henry Shapiro
+- Kyle Kelley: Developer, Carina Containers
+- Andrew Odewahn: @odewahn – CTO, O’Reilly
+- Jason Barnhill: Product Marketing Manager - Rackspace Containers Project
+- jseubert Justin Seubert
+- David Dunlop software engineering manager Insights
+- mgraham
+- jcoldwater
+- jgreen
+- jengel - @joe_racker Data Engineer
+- Bill Anderson @ucntcme 
+- Matt Barker
