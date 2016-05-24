@@ -35,6 +35,7 @@
           {{end}}
           </p>
           {{ if .Params.summary }}
+          {{ if .Params.show_date }} <h6>Episode {{ with .Params.number }}{{ . }}{{ end }} was recorded live on {{ dateFormat "Mon Jan 2, 2006" .Params.show_date}}.</h6>{{ end }}
           <p>{{ .Params.summary | markdownify }}</p>
           {{ end }}
           <!-- Audio Controls -->
