@@ -1,6 +1,6 @@
 ---
 author: Alan Bush
-date: 2016-05-26T13:00:00-06:00
+date: 2016-01-01T13:00:00-06:00
 show_date: 2016-05-26T13:00:00-06:00
 number: 148
 title: "Learn more about Rapid Deployment Servers from Rackspace"
