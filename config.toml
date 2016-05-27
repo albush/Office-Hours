@@ -1,7 +1,7 @@
 theme="material-design"
 baseurl = "http://ohpodcast.com/"
 languageCode = "en-us"
-title = "Rackspace Office Hours NetCast"
+title = "Rackspace Office Hours Live Stream"
 MetaDataFormat = "yaml"
 paginate = 6 # To specify a multiple of 3
 # disqusShortname = "Your Disqus Name" # optional
@@ -15,6 +15,7 @@ copyright = "© 2015"
   # about = "about"
   headerCover = "http://drops.albush.com/fuzzy%20banner1.jpg" # optional
   footerCover = "http://drops.albush.com/fuzzy%20banner1.jpg" # optional
+  googleAnalyticsUserID = "UA-78451647-1"
 
 [taxonomies]
   tag = "tags"

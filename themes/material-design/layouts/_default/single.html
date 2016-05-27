@@ -36,6 +36,7 @@
           </p>
           {{ if .Params.summary }}
           {{ if .Params.show_date }} <h6>Episode {{ with .Params.number }}{{ . }}{{ end }} was recorded live on {{ dateFormat "Mon Jan 2, 2006" .Params.show_date}}.</h6>{{ end }}
+          <hr>
           <p>{{ .Params.summary | markdownify }}</p>
           {{ end }}
           <!-- Audio Controls -->
@@ -71,24 +72,10 @@
             <!-- end checkdown -->
           <!-- Here's where the participant stuff goes -->
           <p><h2>Participants</h2></p>
-          <p><b>Hosts:</b></p>
-    {{ range $person :=.Params.hosts }}<li>
-      {{ if isset $.Site.Data.hosts $person }}
-      {{ $p :=  (index $.Site.Data.hosts $person) }}
-      <ul>{{ $p.FullName }}: {{ if isset $p "Twitter" }}<a href = "https://twitter.com/{{ $p.Twitter }}">@{{ $p.Twitter }}</a>{{ end }} - {{ if isset $p "Title" }}{{ $p.Title | markdownify }}{{ end }}{{ if isset $p "Company" }} at {{ $p.Company | markdownify }}{{ end }}</ul>
-        {{ end }}
-    {{ end }}</li>
-
-    <p><b>Guests:</b></p>
-    {{ range $person :=.Params.guests }}<li>
-    {{ if isset $.Site.Data.guests $person }}
-    {{ $p :=  (index $.Site.Data.guests $person) }}
-
-    <ul>{{ $p.FullName }}: {{ if isset $p "Twitter" }}<a href = "https://twitter.com/{{ $p.Twitter }}">@{{ $p.Twitter }}</a> - {{ end }}{{ if isset $p "Title" }}{{ $p.Title | markdownify }}{{ end }}{{ if isset $p "Company" }} at {{ $p.Company | markdownify }}{{ end }}</ul>
-    {{ end }}</li>
-    {{ end }}
-
+          {{ partial "hosts.html" . }}
+{{ if .Params.guests }}{{ partial "guests.html" . }}{{ end }}
           <!-- End of participant info -->
+          <hr>
           <p>{{ .Content }}</p>
           <p>{{ .Date.Format "2006-01-02" }}
             {{if .Params.tags }}

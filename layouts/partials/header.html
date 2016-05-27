@@ -3,7 +3,7 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no"/>
-  <title>Office Hours Hangouts</title>
+  <title>Office Hours Live Stream</title>
   <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
   <link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
   <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
@@ -22,6 +22,8 @@
   <meta name="msapplication-TileColor" content="#c42126">
   <meta name="msapplication-TileImage" content="/mstile-144x144.png">
   <meta name="theme-color" content="#c42126">
+  <meta name="robots" content="index,follow,noodp">
+  <meta name="googlebot" content="index,follow">
   <link href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.0/css/materialize.min.css" type="text/css" rel="stylesheet" media="screen,projection"/>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
   <link href="{{.Site.BaseURL}}/css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
@@ -71,9 +73,9 @@
   <div id="index-banner" class="parallax-container">
     <div class="section no-pad-bot">
       <div class="container">
-          <h1 class="header center">Office Hours Hangouts</h1>
+          <h1 class="header center">{{ .Title }}</h1>
         <div class="row center">
-          <h5 class="header col s12 light">Educating and inspiring the cloud computing community.</h5>
+          <h5 class="header col s12 light">{{ .Site.Params.description }}</h5>
         </div>
       </div>
     </div>
