@@ -1,6 +1,6 @@
 ---
 author: Alan Bush
-date: 2016-05-31T13:00:00-06:00
+date: 2016-01-01T13:00:00-06:00
 show_date: 2016-06-02T13:00:00-06:00
 number: 149
 title: "Are you ready for Google's SSL changes?"
@@ -16,8 +16,8 @@ ogg_length:
 tags:
 - Rackspace
 - Fanatical Support
-- Cloud Databases
-- High Availability
+- SSL
+- SHA1
 hosts:
 - albush
 guests:
