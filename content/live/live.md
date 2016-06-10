@@ -1,6 +1,6 @@
 ---
 author: Alan Bush
-date: 2016-06-09T13:00:00-06:00
+date: 2016-01-01T13:00:00-06:00
 show_date: 2016-06-09T13:00:00-06:00
 number: 150
 title: "Expanding Fanatical Support for Microsoft Azure"
