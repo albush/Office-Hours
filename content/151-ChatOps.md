@@ -1,4 +1,5 @@
 ---
+draft: true
 author: Alan Bush
 date: 2016-06-13T13:00:00-06:00
 show_date: 2016-06-16T13:00:00-06:00
@@ -8,7 +9,7 @@ summary: "What the heck is ChatOps? We'll ask our experts from Rackspace's Fanat
 youtube_id: uEVZiuiaQaw
 featured_image: http://drops.albush.com/151-ChatOps.png
 calendar: https://plus.google.com/events/cibf9ls6jvqc2jfifgdpptb49pk
-duration:
+duration: 
 length:
 mp3:
 ogg:
@@ -27,5 +28,3 @@ guests:
 ---
 
 <!--more-->
-
-{{< youtube >}}
