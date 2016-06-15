@@ -1,6 +1,6 @@
 ---
 author: Alan Bush
-date: 2016-06-13T13:00:00-06:00
+date: 2016-06-16T13:00:00-06:00
 show_date: 2016-06-16T13:00:00-06:00
 number: 151
 title: "What the heck is ChatOps?"
