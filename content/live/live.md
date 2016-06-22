@@ -1,6 +1,6 @@
 ---
 author: Alan Bush
-date: 2016-06-21T11:00:00-06:00
+date: 2016-06-23T13:00:00-06:00
 show_date: 2016-06-16T13:00:00-06:00
 number: 152
 title: "Introducing Kumoru, an application management platform"
