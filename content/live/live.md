@@ -1,6 +1,6 @@
 ---
 author: Alan Bush
-date: 2016-06-20T13:00:00-06:00
+date: 2016-01-01T13:00:00-06:00
 show_date: 2016-06-23T13:00:00-06:00
 number: 152
 title: "Introducing Kumoru, an application management platform"
@@ -23,6 +23,7 @@ hosts:
 - drewcox
 guests:
 - wwalls
+- rrichard
 ---
 
 <!--more-->
