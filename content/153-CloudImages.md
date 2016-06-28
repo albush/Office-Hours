@@ -1,6 +1,7 @@
 ---
+draft: true
 author: Alan Bush
-date: 2016-06-28T10:00:00-06:00
+date: 2016-06-30T15:00:00-06:00
 show_date: 2016-06-30T13:00:00-06:00
 number: 153
 title: "Everything You Ever Wanted to Know About Cloud Server Images"
@@ -27,5 +28,3 @@ guests:
 ---
 
 <!--more-->
-
-{{< youtube >}}
