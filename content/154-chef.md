@@ -1,6 +1,7 @@
 ---
+draft: false
 author: Alan Bush
-date: 2016-07-06T14:00:00-06:00
+date: 2016-07-07T16:00:00-06:00
 show_date: 2016-07-07T13:00:00-06:00
 number: 154
 title: "Configuration Management with Chef"
@@ -25,5 +26,3 @@ guests:
 ---
 
 <!--more-->
-
-{{< youtube >}}

@@ -28,3 +28,31 @@ guests:
 ---
 
 <!--more-->
+
+## Highlights
+
+- Cloud Images vs. Cloud Backup [(2:49)](https://youtu.be/tZw_rDCYpw4?t=2m49s)
+- Cloud Block Storage [(10:04)](https://youtu.be/tZw_rDCYpw4?t=10m04s)
+- OpenStack terms [(13:34)](https://youtu.be/tZw_rDCYpw4?t=13m34s)
+- Scaling with Cloud Images [(16:16)](https://youtu.be/tZw_rDCYpw4?t=16m16s)
+- Time considerations when spinning up a new Image [(19:24)](https://youtu.be/tZw_rDCYpw4?t=19m24s)
+- SaltStack/Cloud-init [(22:00)](https://youtu.be/tZw_rDCYpw4?t=22m00s)
+- Pets vs. Cattle [(23:09)](https://youtu.be/tZw_rDCYpw4?t=23m09s)
+- Best practices for Orchestration [(24:22)](https://youtu.be/tZw_rDCYpw4?t=24m22s)
+- Verifying Images [(30:09)](https://youtu.be/tZw_rDCYpw4?t=30m09s)
+- New technologies [(35:26)](https://youtu.be/tZw_rDCYpw4?t=35m26s)
+- Rackspace Fanatical Support [(35:59)](https://youtu.be/tZw_rDCYpw4?t=35m59s)
+- Cloud Backup/Monitoring agents [(39:07)](https://youtu.be/tZw_rDCYpw4?t=39m07s)
+- When to use Cloud Images [(42:33)](https://youtu.be/tZw_rDCYpw4?t=42m33s)
+- Getting started with Cloud Images [(43:50)](https://youtu.be/tZw_rDCYpw4?t=43m50s)
+- Portability of Images [(45:47)](https://youtu.be/tZw_rDCYpw4?t=45m47s)
+- Importing external Images [(49:49)](https://youtu.be/tZw_rDCYpw4?t=49m49s)
+- Distro upgrades [(53:26)](https://youtu.be/tZw_rDCYpw4?t=53m26s)
+ 
+
+## Links
+
+- [OpenStack Glossary of Terms](https://support.rackspace.com/how-to/openstack-glossary-of-terms/)
+- [Cloud-init](https://cloudinit.readthedocs.io/en/latest/)
+- [Custom Cloud Monitoring Plugins](https://github.com/racker/rackspace-monitoring-agent-plugins-contrib)
+- [Pitchfork – API Interactive Website Application](https://pitchfork.cloudapi.co/)
