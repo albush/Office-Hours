@@ -1,6 +1,7 @@
 ---
+draft: true
 author: Alan Bush
-date: 2016-07-12T14:00:00-06:00
+date: 2016-07-15T10:00:00-06:00
 show_date: 2016-07-14T13:15:00-06:00
 number: 155
 title: "ChefConf: What you missed in ATX this week"
@@ -26,5 +27,3 @@ guests:
 ---
 
 <!--more-->
-
-{{< youtube >}}
