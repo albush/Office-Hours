@@ -1,4 +1,5 @@
 ---
+draft: true
 author: Alan Bush
 date: 2016-07-18T13:00:00-06:00
 show_date: 2016-07-21T13:00:00-06:00
@@ -18,8 +19,8 @@ tags:
 - Rackspace Private Cloud
 - OpenStack
 hosts:
-- drewcox
 - albush
+- drewcox
 guests:
 - mhayden
 - wbentley
@@ -27,5 +28,3 @@ guests:
 ---
 
 <!--more-->
-
-{{< youtube >}}
