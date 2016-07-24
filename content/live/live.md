@@ -1,6 +1,6 @@
 ---
 author: Alan Bush
-date: 2016-07-18T13:00:00-06:00
+date: 2016-02-01T13:00:00-06:00
 show_date: 2016-07-21T13:00:00-06:00
 number: 156
 title: "Hardening OpenStack with the Latest Release from Rackspace Private Cloud"
