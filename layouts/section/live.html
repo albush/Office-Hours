@@ -10,7 +10,7 @@
     <div class="card-panel">
       <div class="row">
         <div class="col m9 s12 offset-m2">
-          <h6>Episode {{ with .Params.number }}{{ . }}{{ end }} airs live on {{ with .Params.calendar }}<a href="{{ . }}">{{ end }}{{ .Date.Format "Mon Jan 2, 2006 at 3:04 PM U.S. Central Time" }}</a></h6>
+          <h6>Episode {{ with .Params.number }}{{ . }}{{ end }} airs live on {{ with .Params.calendar }}<a href="{{ . }}">{{ end }}{{ dateFormat "Mon Jan 2, 2006 at 3:04 PM U.S. Central Time" .Params.show_date }}</a></h6>
           {{ with .Params.calendar }}<a class="waves-effect waves-light btn" href="{{ . }}">{{ end }}<i class="material-icons">event</i> Add to Calendar</a> <a class="waves-effect waves-light btn" href="#tweetchat"><i class="material-icons">question_answer</i> Join the Conversation</a>
           <h4>{{ .Title }}</h4>
       <!-- YouTube Embed -->
