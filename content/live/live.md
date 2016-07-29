@@ -1,12 +1,12 @@
 ---
 author: Alan Bush
-date: 2016-07-25T15:30:00-06:00
+date: 2016-01-01T15:30:00-06:00
 show_date: 2016-07-28T13:00:00-06:00
 number: 157
 title: "Proven Architecture for Successful
 High-Traffic Events"
 summary: "Rackspace experts discuss the architectural requirements behind our 10X guarantee for high-traffic events."
-youtube_id: Ps4gRhX4eIk
+youtube_id: uJMOLCU5d00
 featured_image: http://media.ohpodcast.com/157-10xSLA.png
 calendar: https://plus.google.com/b/100698655987920162334/events/c6mbe21nppviia8dqpqhpub4pl8
 duration:
