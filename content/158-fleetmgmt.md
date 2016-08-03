@@ -1,5 +1,6 @@
 ---
 author: Alan Bush
+draft: true
 date: 2016-08-02T13:30:00-06:00
 show_date: 2016-08-04T13:00:00-06:00
 number: 158
@@ -18,8 +19,9 @@ tags:
 hosts:
 - drewcox
 - albush
+guests:
+- rmcjunkin
+- lhau
 ---
 
 <!--more-->
-
-{{< youtube >}}
