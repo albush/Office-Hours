@@ -1,5 +1,6 @@
 ---
 author: Alan Bush
+draft: true
 date: 2016-08-11T09:21:46-05:00
 show_date: 2016-08-11T13:00:00-06:00
 number: 159
@@ -23,5 +24,3 @@ hosts:
 ---
 
 <!--more-->
-
-{{< youtube >}}
