@@ -1,6 +1,6 @@
 ---
 author: Alan Bush
-date: 2016-08-11T09:21:46-05:00
+date: 2016-01-01T09:21:46-05:00
 show_date: 2016-08-11T13:00:00-06:00
 number: 159
 title: "Back to Basics: Best Practices for Deploying & Managing Cloud Servers"
@@ -10,8 +10,8 @@ featured_image: http://media.ohpodcast.com/159-basics.png
 calendar: https://www.youtube.com/watch?v=gfeKlhxmbO4
 duration:
 length:
-mp3:
-ogg:
+mp3: http://media.ohpodcast.com/Back-to-Basics-Best-Practices-for-Deploying-Managing-Cloud-Servers.mp3
+ogg: http://media.ohpodcast.com/Back-to-Basics-Best-Practices-for-Deploying-Managing-Cloud-Servers.ogg
 ogg_length:
 tags:
 - Rackspace
