@@ -1,29 +1,29 @@
 ---
 author: Alan Bush
-date: 2016-08-31T14:35:21-05:00
-show_date: 2016-09-01T13:00:00-06:00
-number: 162
-title: "Customer Spotlight: Great Matter"
-summary: "Designing a great website is one thing; hosting it to scale for a worldwide event is another. Join us as we chat with our customer Great Matter about scaling for high traffic events."
-youtube_id: X0imdkRjo1c
-featured_image: https://pbs.twimg.com/media/CrMvlM6UAAARsoQ.png
-calendar: https://www.youtube.com/watch?v=X0imdkRjo1c
+date: 2016-09-06T11:40:49-06:00
+show_date: 2016-09-08T13:00:00-05:00
+number: 163
+title: "What's new from VMWorld?"
+summary: "What's the latest news from VMworld? Our Rackers spent the week at VMworld, and are back to share the latest and greatest from the VMware conference."
+youtube_id: hcujU5oe2S4
+featured_image: http://media.ohpodcast.com/163-vmworld_feature.png
+calendar: https://www.youtube.com/watch?v=hcujU5oe2S4
 duration:
-length: 
+length:
 mp3:
 ogg:
 ogg_length:
 tags:
 - Rackspace
-- Cloud Servers
-- Fleet Management
+- VMware
+- VMworld
 hosts:
 - drewcox
 - albush
 guests:
-- tmalone
-- aweiss
+- ddenny
 ---
+
 
 <!--more-->
 
