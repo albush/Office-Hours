@@ -1,4 +1,5 @@
 {{ $baseurl := .Site.BaseURL }}
+{{ $domain := .Site.Params.domain }}
 <div class="row">
 {{range $index, $page := .Paginator.Pages}}
   {{ if and (modBool $index 3) (ne 0 $index) }}
@@ -36,12 +37,18 @@
           <p>{{ with .Params.summary | markdownify }}{{ . }}{{ end }}</p>
         <!--END OF Description and Call to Action-->
       </div>
+
 </div>
     </div>
   </div>
     <div class="col m3 s12">
     <div class="card-panel">
-      {{ partial "tweetchat.html" }}
+      {{ "<!-- ENTERING YouTube Chat Section -->" | safeHTML }}
+      <div class="comment-container">
+      <iframe type="text/html" {{with .Params.youtube_id}}src="https://www.youtube.com/live_chat?v={{.}}&embed_domain={{$domain}}"{{end}}>
+      </iframe>
+      </div>
+      {{ "<!-- LEAVING YouTube Chat Section -->" | safeHTML }}
     </div>
   </div>
 

@@ -41,6 +41,22 @@ input[type=tel]:focus:not([readonly]), input[type=number]:focus:not([readonly]),
     background-color: #C40022;
 }
 
+.comment-container {
+    position: relative;
+    /*padding-bottom: 75%;*/
+    height: 0;
+    overflow: hidden;
+}
+
+.comment-container iframe {
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: none;
+}
+
 .parallax-container {
   min-height: 275px;
   line-height: 0;

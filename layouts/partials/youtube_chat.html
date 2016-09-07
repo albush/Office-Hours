@@ -1,0 +1,7 @@
+{{ "<!-- ENTERING layouts/partials/youtube_chat.html -->" | safeHTML }}
+<div>
+  {{ with $.Page.Params.youtube_id }} {{ "<!-- {{.}}-->"}}{{end}}
+<iframe type="text/html" src="https://www.youtube.com/live_chat?v=hcujU5oe2S4&embed_domain=http://www.officehours.cloud">
+</iframe>
+</div>
+{{ "<!-- LEAVING layouts/partials/youtube_chat.html -->" | safeHTML }}

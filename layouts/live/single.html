@@ -1,12 +1,13 @@
 {{ partial "singleheader.html" . }}
 {{ $baseurl := .Site.BaseURL }}
+{{ $domain := .Site.Params.domain }}
 <div class="row">
   <div class="col m9 s12">
     <div class="card-panel">
       <div class="row">
         <div class="col m9 s12 offset-m2">
           <h6>Episode {{ with .Params.number }}{{ . }}{{ end }} airs live on {{ with .Params.calendar }}<a href="{{ . }}">{{ end }}{{ dateFormat "Mon Jan 2, 2006 at 3:04 PM U.S. Central Time" .Params.show_date }}</a></h6>
-          {{ with .Params.calendar }}<a class="waves-effect waves-light btn" href="{{ . }}">{{ end }}<i class="material-icons">event</i> Add to Calendar</a> <a class="waves-effect waves-light btn" href="#tweetchat"><i class="material-icons">question_answer</i> Join the Conversation</a>
+          {{ with .Params.calendar }}<a class="waves-effect waves-light btn" href="{{ . }}">{{ end }}<i class="material-icons">event</i> Add to Calendar</a> <a class="waves-effect waves-light btn" href="#livechat"><i class="material-icons">question_answer</i> Join the Conversation</a>
           <h4>{{ .Title }}</h4>
       <!-- YouTube Embed -->
         {{ if .Params.youtube_id }}
@@ -32,13 +33,20 @@
           <p>{{ with .Params.summary | markdownify }}{{ . }}{{ end }}</p>
         <!--END OF Description and Call to Action-->
       </div>
+      {{ "<!-- LEAVING YouTube Chat Section -->" | safeHTML }}
 </div>
     </div>
   </div>
     <div class="col m3 s12">
-    <div class="card-panel" id="tweetchat">
-      {{ partial "tweetchat.html" }}
-      <a href="#livestream">Back to Live Stream</a>
+      <h4>Live Chat</h4></br>
+    <div class="card-panel" id="livechat">
+      {{ "<!-- ENTERING YouTube Chat Section -->" | safeHTML }}
+      <div class="comment-container">
+      <iframe type="text/html"  width="640" height="385" {{with .Params.youtube_id}}src="https://www.youtube.com/live_chat?v={{.}}&embed_domain={{$domain}}"{{end}}>
+      </iframe>
+      </div>
+      {{ "<!-- LEAVING YouTube Chat Section -->" | safeHTML }}
+      <a href="#livestream">Back to Live Stream</a></br>
     </div>
   </div>
 
