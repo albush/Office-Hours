@@ -7,7 +7,7 @@ title: "What's new from VMWorld?"
 summary: "What's the latest news from VMworld? Our Rackers spent the week at VMworld, and are back to share the latest and greatest from the VMware conference."
 youtube_id: hcujU5oe2S4
 featured_image: http://media.ohpodcast.com/163-vmworld_feature.png
-calendar: https://www.youtube.com/watch?v=hcujU5oe2S4
+calendar: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=ODFydXRlbHZxZzZyM3Q2NDNrYW02NW1tcmMgZmxwOXFtZW9mYWYwNTM4anU1Y21sb3Vic29AZw&tmsrc=flp9qmeofaf0538ju5cmloubso%40group.calendar.google.com
 duration:
 length:
 mp3:
