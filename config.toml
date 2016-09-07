@@ -9,6 +9,7 @@ copyright = "© 2015"
 
 [params]
   baseurl = "http://ohpodcast.com/"
+  domain = "www.officehours.cloud"
   description = "People you can talk to... about technology."
   github = "albush/Office-Hours" # optional
   gplus = "+RackspaceHosting" # optional
