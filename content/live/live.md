@@ -6,8 +6,8 @@ number: 164
 title: "Rackspace Office Hours Live Stream"
 summary:
 youtube_id: VdpnYq11dXc
-featured_image: http://media.ohpodcast.com/163-vmworld_feature.png
-calendar: "https://www.youtube.com/watch?v=VdpnYq11dXc"
+featured_image: 
+calendar: https://www.youtube.com/watch?v=VdpnYq11dXc
 duration:
 length:
 mp3:
