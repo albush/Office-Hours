@@ -17,7 +17,6 @@ tags:
 - Rackspace
 hosts:
 - drewcox
-guests:
 ---
 
 
