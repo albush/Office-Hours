@@ -1,13 +1,13 @@
 ---
 author: Alan Bush
-date: 2016-09-14T04:57:19-05:00
-show_date: 2016-09-15T13:00:00-05:00
-number: 164
-title: "Rackspace Office Hours Live Stream"
-summary: "Rackspace's weekly live stream about the cloud."
-youtube_id: VdpnYq11dXc
-featured_image:
-calendar: https://www.youtube.com/watch?v=VdpnYq11dXc
+date: 2016-09-21T09:22:23-05:00
+show_date: 2016-09-22T13:00:00-05:00
+number: 165
+title: "Warming up for Microsoft Ignite!"
+summary: "Next week Rackspace will be at Microsoft Ignite and we are joined by Jeff DeVerter to cover all the ways you can engage with Rackspace to make the most of our expertise in Azure, Microsoft Private Cloud, SharePoint, Office and Security."
+youtube_id: a_VoXXVT9Sg
+featured_image: http://media.ohpodcast.com/165-msignite_feature.png
+calendar: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=bzBuN3A1OWZja2FuajhjdmZsMW1xZHI1ZDggZmxwOXFtZW9mYWYwNTM4anU1Y21sb3Vic29AZw&tmsrc=flp9qmeofaf0538ju5cmloubso%40group.calendar.google.com
 duration:
 length:
 mp3:
@@ -17,6 +17,9 @@ tags:
 - Rackspace
 hosts:
 - drewcox
+- albush
+guests:
+- jdeverter
 ---
 
 
