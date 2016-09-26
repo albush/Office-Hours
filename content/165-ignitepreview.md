@@ -42,7 +42,6 @@ guests:
 - MVP Panel on SharePoint ([00:38:18](https://youtu.be/a_VoXXVT9Sg?t=00h38m18s))
 - Wrap up ([00:39:48](https://youtu.be/a_VoXXVT9Sg?t=00h39m48s))
 
-
 ## Links
 
 - [Microsoft Azure Support with Managed Identity and Access](https://blog.rackspace.com/rackspace-expands-microsoft-azure-support-managed-identity-access)
