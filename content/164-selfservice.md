@@ -23,7 +23,7 @@ guests:
 ---
 <!--more-->
 
-## Links
+## Links  
 
 - [Rackspace Community Forums](https://community.rackspace.com)
 - [Self-Service Support](https://support.rackspace.com)
