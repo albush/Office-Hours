@@ -1,13 +1,13 @@
 ---
 author: Alan Bush
-date: 2016-01-01T10:06:38-05:00
-show_date: 2016-09-29T13:00:00-05:00
-number: 166
-title: "Introducing Rackspace Private Cloud powered by Red Hat"
-summary: "What happens when the #1 open source software vendor and the #1 operator of OpenStack clouds comes together? You get Rackspace Private Cloud powered by Red Hat — a Red Hat OpenStack platform and Rackspace Fanatical Support. On this week's Office hours, join Rackspace and Red Hat OpenStack experts as they discuss the joint partnership and how we are offering choice, ease of consumption, innovation, and enterprise support together."
-youtube_id: 3YJb7SBqJW8
-featured_image: http://media.ohpodcast.com/166-osredhat_feature.png
-calendar: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=ZDMyYjlxNG8wNDRnNW84bG5iazFsdXBhY2sgZmxwOXFtZW9mYWYwNTM4anU1Y21sb3Vic29AZw&tmsrc=flp9qmeofaf0538ju5cmloubso%40group.calendar.google.com
+date: 2016-10-06T11:02:36-05:00
+show_date: 2016-10-06T13:00:00-05:00
+number: 167
+title: "Microsoft Ignite Recap with Todd Klindt"
+summary: "Microsoft MVP Todd Klindt joins us to recap the latest from last week's Microsoft Ignite Conference. What's new? What do you need to change? Todd joins us to share his insights."
+youtube_id: 2UwmvJ8coqM
+featured_image: http://94f45fc9861882877cba-faddd16dede3b2ee20533982411fba98.r40.cf1.rackcdn.com/167-Ignite-Recap_feature.png
+calendar: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=dnEwbWs1YzVmOTZwcjJ1bXRpdTg5NjE4aTQgZmxwOXFtZW9mYWYwNTM4anU1Y21sb3Vic29AZw&tmsrc=flp9qmeofaf0538ju5cmloubso%40group.calendar.google.com
 duration:
 length:
 mp3:
@@ -16,10 +16,8 @@ ogg_length:
 tags:
 - Rackspace
 hosts:
-- drewcox
 - albush
 ---
-What happens when the #1 open source software vendor and the #1 operator of OpenStack clouds comes together? You get Rackspace Private Cloud powered by Red Hat — a Red Hat OpenStack platform and Rackspace Fanatical Support. On this week's Office hours, join Rackspace and Red Hat OpenStack experts as they discuss the joint partnership and how we are offering choice, ease of consumption, innovation, and enterprise support together.
 
 <!--more-->
 
