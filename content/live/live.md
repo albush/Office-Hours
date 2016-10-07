@@ -1,6 +1,6 @@
 ---
 author: Alan Bush
-date: 2016-10-06T11:02:36-05:00
+date: 2016-01-01T11:02:36-05:00
 show_date: 2016-10-06T13:00:00-05:00
 number: 167
 title: "Microsoft Ignite Recap with Todd Klindt"
