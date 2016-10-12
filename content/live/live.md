@@ -1,13 +1,13 @@
 ---
 author: Alan Bush
-date: 2016-01-01T11:02:36-05:00
-show_date: 2016-10-06T13:00:00-05:00
-number: 167
-title: "Microsoft Ignite Recap with Todd Klindt"
-summary: "Microsoft MVP Todd Klindt joins us to recap the latest from last week's Microsoft Ignite Conference. What's new? What do you need to change? Todd joins us to share his insights."
-youtube_id: 2UwmvJ8coqM
-featured_image: http://94f45fc9861882877cba-faddd16dede3b2ee20533982411fba98.r40.cf1.rackcdn.com/167-Ignite-Recap_feature.png
-calendar: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=dnEwbWs1YzVmOTZwcjJ1bXRpdTg5NjE4aTQgZmxwOXFtZW9mYWYwNTM4anU1Y21sb3Vic29AZw&tmsrc=flp9qmeofaf0538ju5cmloubso%40group.calendar.google.com
+date: 2016-10-12T09:24:24-05:00
+show_date: 2016-10-13T13:00:00-05:00
+number: 168
+title: "How Rackers put cloud expertise to work to solve your business needs"
+summary: "Living in a multi-cloud world means you need multiple experts. Rackspace has over three thousand of them; we call them Rackers. On this week's Office Hours we're chatting with 3 of those experts about how they help our customers meet their goals on the right clouds for each customer."
+youtube_id: LX5sA66oUio
+featured_image: http://94f45fc9861882877cba-faddd16dede3b2ee20533982411fba98.r40.cf1.rackcdn.com/168-expertise-multicloud_feature.png
+calendar: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=ZXFwOWpnYTNncHY4ZnNrMjFscjRhcTlhYmsgZmxwOXFtZW9mYWYwNTM4anU1Y21sb3Vic29AZw&tmsrc=flp9qmeofaf0538ju5cmloubso%40group.calendar.google.com
 duration:
 length:
 mp3:
@@ -17,6 +17,7 @@ tags:
 - Rackspace
 hosts:
 - albush
+- drewcox
 ---
 
 <!--more-->
