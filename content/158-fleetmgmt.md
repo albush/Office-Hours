@@ -10,8 +10,8 @@ featured_image: http://media.ohpodcast.com/158-FleetMgmt.png
 calendar: https://plus.google.com/b/100698655987920162334/events/c2g0rccvjsnt3al5ijl28ikmg9c
 duration: "55:27"
 length: 53.2
-mp3: http://94f45fc9861882877cba-faddd16dede3b2ee20533982411fba98.r40.cf1.rackcdn.com/Fleet-Management.mp3
-ogg: http://94f45fc9861882877cba-faddd16dede3b2ee20533982411fba98.r40.cf1.rackcdn.com/Fleet-Management.ogg
+mp3: http://media.ohpodcast.com/Fleet-Management.mp3
+ogg: http://media.ohpodcast.com/Fleet-Management.ogg
 ogg_length: 123.9
 tags:
 - Rackspace

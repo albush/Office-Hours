@@ -6,7 +6,7 @@ number: 160
 title: "Building a Serverless Architecture on AWS"
 summary: "Drew and our guest host Eric Johnson discuss serverless architecture on AWS."
 youtube_id: vXHkruxonm0
-featured_image: http://94f45fc9861882877cba-faddd16dede3b2ee20533982411fba98.r40.cf1.rackcdn.com/160-EricJohnson.png
+featured_image: http://media.ohpodcast.com/160-EricJohnson.png
 calendar: https://www.youtube.com/watch?v=vXHkruxonm0
 duration: "56:47"
 length: 54.5

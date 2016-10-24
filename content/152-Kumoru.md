@@ -8,12 +8,12 @@ number: 152
 title: "Introducing Kumoru, an application management platform"
 summary: "Kumoru is a new application management platform from Rackspace that makes it easier for you to do your job - creating great applications - by managing and scaling your infrastructure, and monitoring and containing costs. Kumoru is now open for a private beta, and we want to introduce you, and give you access to the platform.﻿"
 youtube_id: _5XQmE7rx9o
-featured_image: http://94f45fc9861882877cba-faddd16dede3b2ee20533982411fba98.r40.cf1.rackcdn.com/152-Post-Show-Kumoru_Feature.png
+featured_image: http://media.ohpodcast.com/152-Post-Show-Kumoru_Feature.png
 calendar: https://plus.google.com/events/ce0irghvmdpne62ko2qg48388s8
 duration: "57:01"
 length: 41.1
-mp3:  http://94f45fc9861882877cba-faddd16dede3b2ee20533982411fba98.r40.cf1.rackcdn.com/Introducing-Kumoru-an-application-management-platform.mp3
-ogg: http://94f45fc9861882877cba-faddd16dede3b2ee20533982411fba98.r40.cf1.rackcdn.com/Introducing-Kumoru-an-application-management-platform.ogg
+mp3:  http://media.ohpodcast.com/Introducing-Kumoru-an-application-management-platform.mp3
+ogg: http://media.ohpodcast.com/Introducing-Kumoru-an-application-management-platform.ogg
 ogg_length: 131.1
 tags:
 - Rackspace

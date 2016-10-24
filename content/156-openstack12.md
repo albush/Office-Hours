@@ -11,8 +11,8 @@ featured_image: http://media.ohpodcast.com/156-OpenStack12.png
 calendar: https://plus.google.com/b/100698655987920162334/events/cvd0kgsvq6jevn0o5k8ldnv8gtg
 duration: 54:57
 length: 39.6
-mp3:  http://94f45fc9861882877cba-faddd16dede3b2ee20533982411fba98.r40.cf1.rackcdn.com/Hardening-OpenStack-with-the-Latest-Release-from-Rackspace-Private-Cloud.mp3
-ogg: http://94f45fc9861882877cba-faddd16dede3b2ee20533982411fba98.r40.cf1.rackcdn.com/Hardening-OpenStack-with-the-Latest-Release-from-Rackspace-Private-Cloud.ogg
+mp3:  http://media.ohpodcast.com/Hardening-OpenStack-with-the-Latest-Release-from-Rackspace-Private-Cloud.mp3
+ogg: http://media.ohpodcast.com/Hardening-OpenStack-with-the-Latest-Release-from-Rackspace-Private-Cloud.ogg
 ogg_length: 121.1
 tags:
 - Rackspace

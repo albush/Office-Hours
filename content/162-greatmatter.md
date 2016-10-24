@@ -7,7 +7,7 @@ slug: "162"
 title: "Customer Spotlight: Great Matter"
 summary: "Designing a great website is one thing; hosting it to scale for a worldwide event is another. Join us as we chat with our customer Great Matter about scaling for high traffic events."
 youtube_id: X0imdkRjo1c
-featured_image: http://94f45fc9861882877cba-faddd16dede3b2ee20533982411fba98.r40.cf1.rackcdn.com/162-GreatMatter.png
+featured_image: http://media.ohpodcast.com/162-GreatMatter.png
 calendar: https://www.youtube.com/watch?v=X0imdkRjo1c
 duration:
 length:
