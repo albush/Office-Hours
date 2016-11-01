@@ -10,6 +10,8 @@ title: "Microsoft Ignite Recap with Todd Klindt"
 summary: "Microsoft MVP Todd Klindt joins us to recap the latest from last week's Microsoft Ignite Conference. What's new? What do you need to change? Todd joins us to share his insights."
 youtube_id: 2UwmvJ8coqM
 featured_image: http://media.ohpodcast.com/Office_Hours_Podcast-thumbnail_feature.png
+images:
+- http://media.ohpodcast.com/Office_Hours_Podcast-thumbnail_feature.png
 calendar: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=dnEwbWs1YzVmOTZwcjJ1bXRpdTg5NjE4aTQgZmxwOXFtZW9mYWYwNTM4anU1Y21sb3Vic29AZw&tmsrc=flp9qmeofaf0538ju5cmloubso%40group.calendar.google.com
 duration: "35:13"
 length: 31.5
@@ -47,4 +49,4 @@ It's always a pleasure to have our favorite Iowegian drop by. This week Todd Kli
 ## Links
 
 - [5 Reasons to Upgrade to SharePoint 2016 - by Todd Klindt](http://blog.rackspace.com/5-reasons-sharepoint-2016)
-- [Todd's #SharePoint 2016 Upgrade and Migration session at #MSIgnite](https://myignite.microsoft.com/videos/1370) 
+- [Todd's #SharePoint 2016 Upgrade and Migration session at #MSIgnite](https://myignite.microsoft.com/videos/1370)
