@@ -1,6 +1,6 @@
 ---
 author: Alan Bush
-date: 2016-11-17T09:45:00-06:00
+date: 2016-01-01T09:45:00-06:00
 show_date: 2016-11-17T13:00:00-05:00
 number: 172
 title: "Customer Success Spotlight: ZAG Interactive"
