@@ -1,8 +1,10 @@
 ---
 author: Alan Bush
-date: 2016-01-01T14:56:08-06:00
+date: 2016-11-28T14:56:08-06:00
 show_date: 2016-12-01T13:00:00-06:00
 number: 173
+aliases:
+- "173"
 title: "Microsoft Year in Review"
 summary: "It's been a big year for both Microsoft and Rackspace. Two of our favorite Microsoft-focused Rackers, Jeff DeVerter and Kent Kingery join us live in the studio to chat about the year that was, and what to expect in 2017."
 youtube_id: li1lIxOMZaQ
