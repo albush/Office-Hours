@@ -7,6 +7,7 @@ aliases:
 - "173"
 title: "Microsoft Year in Review"
 summary: "It's been a big year for both Microsoft and Rackspace. Two of our favorite Microsoft-focused Rackers, Jeff DeVerter and Kent Kingery join us live in the studio to chat about the year that was, and what to expect in 2017."
+Description: "It's always great to have Rackspace's Microsoft Technology CTO Jeff DeVerter or Senior Manager Kent Kingery join us in the studio. This week we had both, and proved that together their an absolute riot. Check out their fun - and more importantly informative look at the year in Microsoft, and a brief look ahead to next year." 
 youtube_id: li1lIxOMZaQ
 featured_image: http://media.ohpodcast.com/173-msreview-thumbnail.png
 images:
