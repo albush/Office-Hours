@@ -9,27 +9,30 @@ aliases:
 title: "Fanatical Support for AWS: A Year in Review"
 slug: "fanatical-support-for-aws-year-in-review"
 summary: "Rackspace supports AWS. And we do it well. On this episode of Rackspace Office Hours, our [Fanatical Support for AWS](https://www.rackspace.com/managed-aws?utm_medium=community&utm_source=office_hours&utm_campaign=aws&utm_content=ep174) General Manager, **Jeff Cotten**, and VP, Product & Engineering, Fanatical Support for AWS, **Erik Carlin** join us to discuss all of the big changes we saw with AWS in 2016, and what's to come in 2017."
-Description: "Rackspace supports AWS. And we do it well. On this episode of Rackspace Office Hours, our Fanatical Support for AWS General Manager, Jeff Cotten, and VP, Product & Engineering, Fanatical Support for AWS, Erik Carlin join us to discuss all of the big changes we saw with AWS in 2016, and what’s to come in 2017."
+Description: "We're continuing our Year-In-Review series with a look at Fanatical Support for AWS. We were joined in the Studio by Jeff Cotten, our Senior Vice President and General Manager of Fanatical Support for AWS. We've had a great year, growing our AWS Support Business form inception to one of AWS' Premier Partners, with over 600 Rackers with AWS Technical Certifications. That's pretty great!"
 youtube_id: xngRRUlVYec
 featured_image: http://media.ohpodcast.com/174-FAWS-YIR-featured.png
 images:
 - "http://media.ohpodcast.com/174-FAWS-YIR-featured.png"
 - "http://drops.albush.com/faceslogo.png"
 calendar: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=bnBiaGdiNGxuYm8yMjVyanBrdWI1djNyNDAgZmxwOXFtZW9mYWYwNTM4anU1Y21sb3Vic29AZw&tmsrc=flp9qmeofaf0538ju5cmloubso%40group.calendar.google.com"
-duration:
-length:
-mp3:
-ogg:
-ogg_length:
+duration: "50:38"
+length: 45.7
+mp3: http://media.ohpodcast.com/Fanatical-Support-for-AWS-A-Year-in-Review.mp3
+ogg: http://media.ohpodcast.com/Fanatical-Support-for-AWS-A-Year-in-Review.ogg
+ogg_length: 148.4
 tags:
 - Rackspace
 - Customer
+- AWS
+- Year-In-Review
 hosts:
 - albush
 - drewcox
 guests:
 - jcotten
-- ecarlin
 ---
+
+We're continuing our Year-In-Review series with a look at Fanatical Support for AWS. We were joined in the Studio by **Jeff Cotten**, our Senior Vice President and General Manager of [Fanatical Support for AWS](https://www.rackspace.com/managed-aws?utm_medium=community&utm_source=office_hours&utm_campaign=aws&utm_content=ep174). We've had a great year, growing our AWS Support Business form inception to one of AWS' Premier Partners, with over 600 Rackers with AWS Technical Certifications. That's pretty great!
 
 <!--more-->
