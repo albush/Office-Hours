@@ -18,7 +18,6 @@ ogg:
 ogg_length:
 tags:
 - Rackspace
-- Customer
 hosts:
 - albush
 - drewcox
