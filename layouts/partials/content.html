@@ -16,10 +16,16 @@
       {{end}}
       </p>
       <p>
+        {{ "<!-- Choose the image -->" | safeHTML }}
         {{ if .Params.featured_image }}
         <a href="{{ .Permalink }}"><img class="responsive-img" {{ with .Params.featured_image }} src="{{ . }}"{{ end }} alt="{{ .Title }}"></a>
+        {{ "<!-- Using .Params.featured_image -->" | safeHTML }}
+        {{ else if .Params.images }}
+        <a href="{{ .Permalink }}"><img class="responsive-img" {{ with .Params.images }} src="{{ index . 0 }}"{{ end }} alt="{{ .Title }}"></a>
+        {{ "<!-- Using .Params.images -->" | safeHTML }}
         {{ else }}
         <a href="{{ .Permalink }}"><img class="responsive-img" {{ with .Site.Params.headerCover }} src="{{ . }}"{{ end }} alt="{{ .Title }}"></a>
+        {{ "<!-- Using default -->" | safeHTML }}
         {{ end }}
       </p>
 
