@@ -1,25 +1,6 @@
 {{ partial "singleheader.html" . }}
 {{ $baseurl := .Site.BaseURL }}
-<!-- <div id="index-banner" class="parallax-container">
-  <div class="section no-pad-bot">
 
-    <div class="container"> -->
-
-        <!-- <h1 class="header center">Office Hours Hangouts</h1>
-      <div class="row center">
-        <h5 class="header col s12 light">Educating and inspiring the cloud computing community.</h5>
-      </div> -->
-<!--
-    </div>
-  </div>
-  <div class="parallax">
-    {{ if .Params.featured_image }}
-    <img{{ with .Params.featured_image }} src="{{ . }}"{{ end }} alt="{{ .Title }}">
-    {{ else }}
-    <img src="{{.Site.Params.headerCover}}">
-    {{ end }}
-  </div>
-</div> -->
 <div class="container">
   <div class="section">
 
@@ -34,9 +15,11 @@
             {{ end }}
           {{end}}
           </p>
-          {{ if .Params.summary }}
-          {{ if .Params.show_date }} <h6>Episode {{ with .Params.number }}{{ . }}{{ end }} was recorded live on {{ dateFormat "Mon Jan 2, 2006" .Params.show_date}}.</h6>{{ end }}
+          {{ if .Params.show_date }} <h6>Episode {{ with .Params.number }}{{ . }}{{ end }}: Recorded live on {{ dateFormat "Mon Jan 2, 2006" .Params.show_date}}.</h6>{{ end }}
           <hr>
+          {{ if .Params.description }}
+          <p>{{ .Params.description | markdownify }}</p>
+          {{ else if .Params.summary }}
           <p>{{ .Params.summary | markdownify }}</p>
           {{ end }}
           <!-- Audio Controls -->
