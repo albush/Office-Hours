@@ -10,7 +10,7 @@ youtube_id: PqxuSsGrAl0
 featured_image: http://media.ohpodcast.com/175-Security-YIR_feature.png
 images:
 - "http://media.ohpodcast.com/175-Security-YIR_feature.png"
-calendar: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=bnBiaGdiNGxuYm8yMjVyanBrdWI1djNyNDAgZmxwOXFtZW9mYWYwNTM4anU1Y21sb3Vic29AZw&tmsrc=flp9qmeofaf0538ju5cmloubso%40group.calendar.google.com"
+calendar: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=ZzdoZmhtc2w4MTRzNDk2ZG8xam45dDBwM2cgZmxwOXFtZW9mYWYwNTM4anU1Y21sb3Vic29AZw&tmsrc=flp9qmeofaf0538ju5cmloubso%40group.calendar.google.com"
 duration:
 length:
 mp3:
