@@ -18,6 +18,7 @@ ogg:
 ogg_length:
 tags:
 - Rackspace
+- Security
 hosts:
 - albush
 - drewcox
