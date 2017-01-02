@@ -1,9 +1,13 @@
 ---
 author: Alan Bush
-date: 2015-01-02T08:45:13-06:00
+date: 2017-01-02T08:45:13-06:00
 show_date: 2017-01-05T13:00:00-06:00
 number: 176
 title: "Cloud Predictions for 2017 with John Engates"
+slug: "cloud-predictions-for-2017-with-john-engates"
+aliases:
+- "176"
+- "2017-predictions"
 summary: "Office Hours is back for the New Year, and we're kicking it off with Rackspace CTO John Engates reviewing his 2017 Cloud Predictions. This is an annual tradition on our show - and this year we've got some great predictions to cover."
 Description: "Office Hours is back for the New Year, and we're kicking it off with Rackspace CTO John Engates reviewing his 2017 Cloud Predictions. This is an annual tradition on our show - and this year we've got some great predictions to cover."
 youtube_id: nC1LaVxL4GM
