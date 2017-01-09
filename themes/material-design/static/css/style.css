@@ -6,6 +6,8 @@ a {
 
 nav {
   background-color: #C40022;
+  height: 45px;
+  line-height: 36px;
 }
 
 nav ul a,
@@ -13,6 +15,11 @@ nav .brand-logo {
   color: #FFF;
   padding-left: 20px;
 }
+
+nav a .brand-logo {
+  color: #000;
+}
+
 p {
   line-height: 2rem;
 }
