@@ -13,6 +13,11 @@ nav .brand-logo {
   color: #FFF;
   padding-left: 20px;
 }
+
+nav a .brand-logo {
+  color: #000;
+}
+
 p {
   line-height: 2rem;
 }

@@ -122,14 +122,14 @@
   <nav>
   <a href="{{ .Site.BaseURL }}" class="brand-logo"><img src="//drops.albush.com/faceslogo.png" width="89px" height="55px"></a>
 <ul class="right hide-on-med-and-down">
-  {{ range first 1 .Site.Pages }}
+  <!-- {{ range first 1 .Site.Pages }}
   {{ with .Params.mp3 }}<li><a class ="tooltipped" data-position="bottom" data-delay="50" data-tooltip="Latest Episode" href="{{ . }}"><i class="fa fa-headphones fa-2x"></i></a></li>{{ end }}
-  {{ end }}
+  {{ end }} -->
   {{if .Site.Params.twitter}}
   <li><a class ="tooltipped" data-position="bottom" data-delay="50" data-tooltip="Our Twitter" href="https://twitter.com/rackerhoa"><i class="fa fa-twitter fa-2x"></i></a></li>
   {{end}}
   <li><a class ="tooltipped" data-position="bottom" data-delay="50" data-tooltip="About" href="{{.Site.BaseURL}}/about"><i class="material-icons">info</i></a></li>
-  <li><a class ="tooltipped" data-position="bottom" data-delay="50" data-tooltip="Live Shows" href="{{.Site.BaseURL}}/live"><i class="material-icons">new_releases</i></a></li>
+  <!-- <li><a class ="tooltipped" data-position="bottom" data-delay="50" data-tooltip="Live Shows" href="{{.Site.BaseURL}}/live"><i class="material-icons">new_releases</i></a></li> -->
   <li><a class ="tooltipped" data-position="bottom" data-delay="50" data-tooltip="Participate"href="{{.Site.BaseURL}}/participate"><i class="material-icons">person_add</i></a></li>
   <li><a class ="tooltipped" data-position="bottom" data-delay="50" data-tooltip="Archive" href="{{.Site.BaseURL}}/archive"><i class="material-icons">subscriptions</i></a></li>
   <li><a class ="tooltipped" data-position="bottom" data-delay="50" data-tooltip="Subscribe" href="//feeds.feedburner.com/OfficeHoursPodcast"><i class="fa fa-rss fa-2x"></i></a></li>
@@ -143,7 +143,7 @@
   <li><a href="https://twitter.com/rackerhoa">Follow on Twitter</i></a></li>
   {{end}}
   <li><a href="{{.Site.BaseURL}}/about">About</a></li>
-  <li><a href="{{.Site.BaseURL}}/live">Live Show</a></li>
+  <!-- <li><a href="{{.Site.BaseURL}}/live">Live Show</a></li> -->
   <li><a href="{{.Site.BaseURL}}/participate">Participate</a></li>
   <li><a href="{{.Site.BaseURL}}/archive">Archive</a></li>
   <li><a href="//feeds.feedburner.com/OfficeHoursPodcast">Subscribe</a></li>
@@ -151,16 +151,15 @@
 </ul>
 <a href="#" data-activates="slide-out" class="button-collapse"><i class="mdi-navigation-menu"></i></a>
 </nav>
-  <div id="index-banner" class="parallax-container">
-    <div class="section no-pad-bot">
-      <div class="container">
-          <h1 class="header center">{{ .Title }}</h1>
-        <div class="row center">
-          <h5 class="header col s12 light">{{ .Site.Params.description }}</h5>
-        </div>
-      </div>
-    </div>
-    <div class="parallax">
-      <img src="http://drops.albush.com/fuzzy%20banner1.jpg">
-    </div>
+<div class="container">
+<div class="section">
+  <h5>Office Hours Live Stream</h5>
+{{ range first 1 (where .Data.Pages "Type" "episode")}}
+<h4>{{ .Title }}</h4><h6>Episode {{ with .Params.number }}{{ . }}{{ end }} airs live on {{ with .Params.calendar }}<a href="{{ . }}">{{ end }}{{ dateFormat "Mon Jan 2, 2006 at 3:04 PM U.S. Central Time" .Params.show_date }}</a></h6>
+  <div class="video-container">
+  <iframe class="youtube-player" type="text/html" width="640" height="385" src="http://www.youtube.com/embed/{{ .Params.youtube_id }}" allowfullscreen frameborder="0">
+  </iframe>
   </div>
+{{end}}
+</div>
+</div>

@@ -9,6 +9,10 @@ copyright = "© 2015"
 
 [params]
   baseurl = "http://ohpodcast.com/"
+  images = [
+    "http://94f45fc9861882877cba-faddd16dede3b2ee20533982411fba98.r40.cf1.rackcdn.com/EndCard_Template.png",
+    "http://43310d0b49cbbc38a442-10bdc67bd7b784b5366a25d9eb4e34cd.r81.cf1.rackcdn.com/Jason-RedTeam%20%281%29.png",    
+  ]
   domain = "ohpodcast.com"
   description = "People you can talk to... about technology."
   github = "albush/Office-Hours" # optional
