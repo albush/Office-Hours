@@ -32,21 +32,6 @@ Guests:
 
 <!--more-->
 
-{{< audioMB >}}
-
-{{< youtube >}}
-
-**Hosts:**  
-
-- Alan Bush: [@AlanBush](https://twitter.com/alanbush) – Rackspace Community Manager  
-- Drew Cox: [@DrewCoxSA](https://twitter.com/drewcoxsa) – Rackspace Enterprise Technical Advisor  
-
-**Guests:**  
-
-- Riddhi Shah: Software Developer, Cloud Databases at Rackspace
-- Nabeel Shahzad: Software Developer, Cloud Databases at Rackspace
-- Tim Given: MySQL DBA at Rackspace
-
 ## Highlights
 
 - Rackspace Cloud Databases [(7:24)](https://youtu.be/swMqKz9qFgA?t=7m24s)

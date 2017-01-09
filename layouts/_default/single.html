@@ -1,0 +1,100 @@
+{{ partial "singleheader.html" . }}
+{{ $baseurl := .Site.BaseURL }}
+
+<div class="container">
+  <div class="section">
+
+    <div class="row">
+      <div class="col s12">
+        <div class="card-panel">
+          <h4>{{ .Title }}</h4>
+          <p>
+          {{if .Params.categories }}
+            {{ range $index, $category := .Params.categories }}
+              <a href="{{$baseurl}}/categories/{{ $category | urlize }}/">{{ $category }}</a>
+            {{ end }}
+          {{end}}
+          </p>
+          {{ if .Params.show_date }} <h6>Episode {{ with .Params.number }}{{ . }}{{ end }}: Recorded live on {{ dateFormat "Mon Jan 2, 2006" .Params.show_date}}.</h6>{{ end }}
+          <hr>
+          {{ if .Params.description }}
+          <p>{{ .Params.description | markdownify }}</p>
+          {{ else if .Params.summary }}
+          <p>{{ .Params.summary | markdownify }}</p>
+          {{ end }}
+          <!-- Audio Controls -->
+          {{ if .Params.mp3 }}
+          <div class="container">
+          <audio controls>
+                  <source src="{{ .Params.mp3 }}" type="audio/mp4">
+                  {{ if .Params.ogg }}<source src="{{ .Params.ogg }}" type="audio/ogg">{{end}}
+                  Sorry, your browser does not support the <code>audio</code> element.
+          </audio><br>
+          Download: <a href="{{ .Params.mp3 }}">MP3</a> ({{ .Params.length }} MB) {{ if .Params.ogg }}| <a href="{{ .Params.ogg }}">OGG</a> {{if .Params.ogg_length }} ({{ .Params.ogg_length }} MB) {{end}}{{end}}<br>
+          Subscribe: <a href="https://itunes.apple.com/us/podcast/rackspace-office-hours-netcast/id1035176963?mt=2">iTunes</a> | <a href="http://subscribeonandroid.com/feeds.feedburner.com/OfficeHoursPodcast">Android</a> | <a href="https://play.google.com/music/listen#/ps/Ivood5nqrg2b5fltum4b6v72254">Google Play</a> | <a href="http://feeds.feedburner.com/OfficeHoursPodcast">RSS</a>
+        </div><br>
+        {{ end }}
+          <!-- End Audio Controls -->
+          <!-- Episode Recap media embed checkdown -->
+            {{ if .Params.youtube_id }}
+            <div class="video-container">
+            <iframe class="youtube-player" type="text/html" width="560" height="315" {{ with .Params.youtube_id }} src="http://www.youtube.com/embed/{{ . }}"{{ end }} allowfullscreen frameborder="0">
+            </iframe>
+            </div>
+            {{ else if .Params.playlist_id }}
+            <div class="video-container">
+            <iframe class="youtube-player" type="text/html" width="560" height="315" {{ with .Params.playlist_id }} src="https://www.youtube.com/embed/videoseries?list={{ . }}"{{ end }} allowfullscreen frameborder="0">
+            </iframe>
+            </div>
+            {{ else }}
+            <div class="video-container">
+            <iframe class="youtube-player" type="text/html" width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLXK8KWNgW1Ms1ROsbIhOg6kJV2eOqAP3Y" allowfullscreen frameborder="0">
+            </iframe>
+            </div>
+            {{ end }}
+            <!-- end checkdown -->
+          <!-- Here's where the participant stuff goes -->
+          <p><h2>Participants</h2></p>
+          {{ partial "hosts.html" . }}
+{{ if .Params.guests }}{{ partial "guests.html" . }}{{ end }}
+          <!-- End of participant info -->
+          <hr>
+          <p>{{ .Content }}</p>
+          <p>{{ .Date.Format "2006-01-02" }}
+            {{if .Params.tags }}
+              {{ range $index, $tag := .Params.tags }}
+                <a href="{{$baseurl}}/tags/{{ $tag | urlize }}/">#{{ $tag }}</a>
+              {{ end }}
+            {{end}}
+          </p>
+          {{ with .Site.DisqusShortname }}
+            {{ partial "disqus.html" . }}
+          {{ end }}
+        </div>
+      </div>
+    </div>
+
+
+
+    <div class="row">
+      <div class="col s3 m1">
+      {{if .Prev}}
+        <a class="btn-floating btn-large waves-effect waves-light" href="{{ .Prev.Permalink }}"><i class="mdi-navigation-arrow-back"></i></a>
+      {{else}}
+        <a class="btn-floating btn-large disabled"><i class="mdi-navigation-arrow-back"></i></a>
+      {{end}}
+      </div>
+      <div class="col s6 m10 center">&nbsp</div>
+      <div class="col s3 m1">
+      {{if .Next}}
+        <a class="btn-floating btn-large waves-effect waves-light" href="{{ .Next.Permalink }}"><i class="mdi-navigation-arrow-forward"></i></a>
+      {{else}}
+        <a class="btn-floating btn-large disabled"><i class="mdi-navigation-arrow-forward"></i></a>
+      {{end}}
+      </div>
+    </div>
+
+  </div>
+</div>
+
+{{ partial "footer.html" . }}

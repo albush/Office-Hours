@@ -1,0 +1,9 @@
+{{ "<!-- ENTERING layouts/partials/hosts.html -->" | safeHTML }}
+<p><b>Hosts:</b></p>
+{{ range $person :=.Params.hosts }}<li>
+{{ if isset $.Site.Data.hosts $person }}
+{{ $p :=  (index $.Site.Data.hosts $person) }}
+{{ $p.FullName }}: {{ if isset $p "Twitter" }}<a href = "https://twitter.com/{{ $p.Twitter }}">@{{ $p.Twitter }}</a>{{ end }} - {{ if isset $p "Title" }}{{ $p.Title | markdownify }}{{ end }}{{ if isset $p "Company" }} at {{ $p.Company | markdownify }}{{ end }}
+{{ end }}
+{{ end }}</li>
+{{ "<!-- LEAVING layouts/partials/hosts.html -->" | safeHTML }}

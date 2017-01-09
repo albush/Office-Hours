@@ -1,15 +1,15 @@
 {{ partial "singleheader.html" . }}
 {{ $baseurl := .Site.BaseURL }}
-<div id="index-banner" class="parallax-container">
+<!-- <div id="index-banner" class="parallax-container">
   <div class="section no-pad-bot">
 
-    <div class="container">
+    <div class="container"> -->
 
         <!-- <h1 class="header center">Office Hours Hangouts</h1>
       <div class="row center">
         <h5 class="header col s12 light">Educating and inspiring the cloud computing community.</h5>
       </div> -->
-
+<!--
     </div>
   </div>
   <div class="parallax">
@@ -19,7 +19,7 @@
     <img src="{{.Site.Params.headerCover}}">
     {{ end }}
   </div>
-</div>
+</div> -->
 <div class="container">
   <div class="section">
 
@@ -35,6 +35,8 @@
           {{end}}
           </p>
           {{ if .Params.summary }}
+          {{ if .Params.show_date }} <h6>Episode {{ with .Params.number }}{{ . }}{{ end }} was recorded live on {{ dateFormat "Mon Jan 2, 2006" .Params.show_date}}.</h6>{{ end }}
+          <hr>
           <p>{{ .Params.summary | markdownify }}</p>
           {{ end }}
           <!-- Audio Controls -->
@@ -70,24 +72,10 @@
             <!-- end checkdown -->
           <!-- Here's where the participant stuff goes -->
           <p><h2>Participants</h2></p>
-          <p><b>Hosts:</b></p>
-    {{ range $person :=.Params.hosts }}<li>
-      {{ if isset $.Site.Data.hosts $person }}
-      {{ $p :=  (index $.Site.Data.hosts $person) }}
-      <ul>{{ $p.FullName }}: {{ if isset $p "Twitter" }}<a href = "https://twitter.com/{{ $p.Twitter }}">@{{ $p.Twitter }}</a>{{ end }} - {{ if isset $p "Title" }}{{ $p.Title | markdownify }}{{ end }}{{ if isset $p "Company" }} at {{ $p.Company | markdownify }}{{ end }}</ul>
-        {{ end }}
-    {{ end }}</li>
-
-    <p><b>Guests:</b></p>
-    {{ range $person :=.Params.guests }}<li>
-    {{ if isset $.Site.Data.guests $person }}
-    {{ $p :=  (index $.Site.Data.guests $person) }}
-
-    <ul>{{ $p.FullName }}: {{ if isset $p "Twitter" }}<a href = "https://twitter.com/{{ $p.Twitter }}">@{{ $p.Twitter }}</a> - {{ end }}{{ if isset $p "Title" }}{{ $p.Title | markdownify }}{{ end }}{{ if isset $p "Company" }} at {{ $p.Company | markdownify }}{{ end }}</ul>
-    {{ end }}</li>
-    {{ end }}
-
+          {{ partial "hosts.html" . }}
+{{ if .Params.guests }}{{ partial "guests.html" . }}{{ end }}
           <!-- End of participant info -->
+          <hr>
           <p>{{ .Content }}</p>
           <p>{{ .Date.Format "2006-01-02" }}
             {{if .Params.tags }}
@@ -103,7 +91,7 @@
       </div>
     </div>
 
-{{ partial "fab_social.html" . }}
+
 
     <div class="row">
       <div class="col s3 m1">

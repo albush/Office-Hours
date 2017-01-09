@@ -1,14 +1,16 @@
 ---
 author: Alan Bush
-date: 2016-01-01T09:00:00-06:00
-show_date: 2016-05-19T13:00:00-06:00
-number: 147
-title: "High Availability in Cloud Databases"
-summary: "We're exploring the amazing new improvements in our Cloud Databases - High Availability Clusters. We'll be joined by product engineers who can help answer our questions about how this works."
-crowdcast_id: OfficeHours147
-youtube_id: swMqKz9qFgA
-featured_image:
-calendar: http://ccst.io/e/OfficeHours147
+date: 2015-01-02T08:45:13-06:00
+show_date: 2017-01-05T13:00:00-06:00
+number: 176
+title: "Cloud Predictions for 2017 with John Engates"
+summary: "Office Hours is back for the New Year, and we're kicking it off with Rackspace CTO John Engates reviewing his 2017 Cloud Predictions. This is an annual tradition on our show - and this year we've got some great predictions to cover."
+Description: "Office Hours is back for the New Year, and we're kicking it off with Rackspace CTO John Engates reviewing his 2017 Cloud Predictions. This is an annual tradition on our show - and this year we've got some great predictions to cover."
+youtube_id: 33CmC4UAKYE
+featured_image: "http://media.ohpodcast.com/176-2017-Predictions_feature.png"
+images:
+- "http://media.ohpodcast.com/176-2017-Predictions_feature.png"
+calendar: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=aDNyaTVnYjgxNTc4ZWhyN2psZTdwMWFkNjggZmxwOXFtZW9mYWYwNTM4anU1Y21sb3Vic29AZw&tmsrc=flp9qmeofaf0538ju5cmloubso%40group.calendar.google.com"
 duration:
 length:
 mp3:
@@ -16,14 +18,12 @@ ogg:
 ogg_length:
 tags:
 - Rackspace
-- Fanatical Support
-- Cloud Databases
-- High Availability
+- Cloud Predictions
+hosts:
+- albush
+- drewcox
+guests:
+- jengates
 ---
 
 <!--more-->
-
-{{< crowdcast >}}
-
-Nabeel Shahzad, Software Developer, Cloud Databases.
-Riddhi Shah, Software Developer, Cloud Databases.

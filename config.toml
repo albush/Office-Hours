@@ -1,7 +1,7 @@
 theme="material-design"
 baseurl = "http://ohpodcast.com/"
 languageCode = "en-us"
-title = "Rackspace Office Hours NetCast"
+title = "Rackspace Office Hours Live Stream"
 MetaDataFormat = "yaml"
 paginate = 6 # To specify a multiple of 3
 # disqusShortname = "Your Disqus Name" # optional
@@ -9,12 +9,42 @@ copyright = "© 2015"
 
 [params]
   baseurl = "http://ohpodcast.com/"
+  domain = "ohpodcast.com"
   description = "People you can talk to... about technology."
   github = "albush/Office-Hours" # optional
   gplus = "+RackspaceHosting" # optional
   # about = "about"
   headerCover = "http://drops.albush.com/fuzzy%20banner1.jpg" # optional
   footerCover = "http://drops.albush.com/fuzzy%20banner1.jpg" # optional
+  googleAnalyticsUserID = "UA-78451647-1"
+    [params.social]
+    github      = "albush/Office-Hours"
+    facebook        = "alan.bush"
+    facebook_admin  = "1554398007"  # This needs to be a page admin to get domain insights
+    twitter     = "officehourslive"
+    twitter_domain  = "ohpodcast.com" # This domain shows in twitter cards as "View on `twitter_domain`"
+    googleplus      = "+AlanBush"
+    youtube     = "Rackspace"
+    # linkedin        = "adbush"
+      [params.authors]
+        [params.authors.alan]
+        name          = "Alan Bush"
+        thumbnail     = "http://2.gravatar.com/avatar/4b434a5f9b17613e7eae559726e31b99"
+        images        = [
+                        "http://drops.albush.com/bush_alan_04_small.jpg",
+                      ]
+        bio           = "Alan Bush is a Community Manager at Rackspace by day, a husband, daddy and comedian by night. Alan likes beer, coffee, puns and the Kansas City Royals. He dislikes writing about himself in the third person."
+        email         = "al@albush.com"
+          [params.authors.Alan.social]
+          name = "Alan Bush"
+          github      = "albush"
+          facebook        = "alan.bush"
+          facebook_admin  = "1554398007"  # This needs to be a page admin to get domain insights
+          twitter     = "alanbush"
+          twitter_domain  = "albush.com" # This domain shows in twitter cards as "View on `twitter_domain`"
+          googleplus      = "+AlanBush"
+          instagram       = "youcancallmealbush"
+          linkedin        = "adbush"
 
 [taxonomies]
   tag = "tags"
