@@ -6,6 +6,8 @@ a {
 
 nav {
   background-color: #C40022;
+  height: 45px;
+  line-height: 36px;
 }
 
 nav ul a,
