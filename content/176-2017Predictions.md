@@ -12,7 +12,7 @@ aliases:
 summary: "Office Hours is back for the New Year, and we're kicking it off with Rackspace CTO John Engates reviewing his 2017 Cloud Predictions. This is an annual tradition on our show - and this year we've got some great predictions to cover."
 Description: "Office Hours is back for the New Year, and we're kicking it off with Rackspace CTO John Engates reviewing his 2017 Cloud Predictions. This is an annual tradition on our show - and this year we've got some great predictions to cover."
 youtube_id: 33CmC4UAKYE
-featured_image: "http://94f45fc9861882877cba-faddd16dede3b2ee20533982411fba98.r40.cf1.rackcdn.com/176-2017-Predictions-recap.png"
+featured_image: "http://media.ohpodcast.com/176-2017-Predictions-recap.png"
 images:
 - "http://media.ohpodcast.com/176-2017-Predictions_feature.png"
 calendar: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=aDNyaTVnYjgxNTc4ZWhyN2psZTdwMWFkNjggZmxwOXFtZW9mYWYwNTM4anU1Y21sb3Vic29AZw&tmsrc=flp9qmeofaf0538ju5cmloubso%40group.calendar.google.com"
