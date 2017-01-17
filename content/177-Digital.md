@@ -14,7 +14,7 @@ Description: "What does digital actually mean? What does a digitally mature busi
 youtube_id: bXLpk_TTThA
 featured_image: "http://media.ohpodcast.com/4pillars1.png"
 images:
-- "http://media.ohpodcast.com/177-Digital-bw_feature.png"
+- "http://media.ohpodcast.com/4pillars1.png"
 calendar: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=ZzVnbGdtNms3ZzJxZHBndmcwZnQ1bWdrcGsgZmxwOXFtZW9mYWYwNTM4anU1Y21sb3Vic29AZw&tmsrc=flp9qmeofaf0538ju5cmloubso%40group.calendar.google.com"
 duration: "49:27"
 length: "44.2"
