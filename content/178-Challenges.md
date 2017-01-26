@@ -16,11 +16,11 @@ featured_image: "http://media.ohpodcast.com/178-challenges_feature.png"
 images:
 - "http://media.ohpodcast.com/178-challenges_feature.png"  
 calendar: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=OHRlYTZhdmVoMWxic2JvdDg0aGU4ZjNtaW8gZmxwOXFtZW9mYWYwNTM4anU1Y21sb3Vic29AZw&tmsrc=flp9qmeofaf0538ju5cmloubso%40group.calendar.google.com"
-duration: ""
-length: ""
-mp3:
-ogg:
-ogg_length: ""
+duration: "51:31"
+length: "46"
+mp3: "http://media.ohpodcast.com/Facing-your-cloud-challenges.mp3"
+ogg: "http://media.ohpodcast.com/Facing-your-cloud-challenges.ogg"
+ogg_length: "145.6"
 tags:
 - Rackspace
 - Cloud computing
