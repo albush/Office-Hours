@@ -1,6 +1,6 @@
 ---
 author: Alan Bush
-date: 2017-01-24T08:28:59-06:00
+date: 2017-01-26T10:30:49-06:00
 show_date: 2017-01-26T13:00:00-06:00
 number: 178
 type: episode
