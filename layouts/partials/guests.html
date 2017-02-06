@@ -3,7 +3,7 @@
     {{ range $person :=.Params.guests }}<li>
     {{ if isset $.Site.Data.guests $person }}
     {{ $p :=  (index $.Site.Data.guests $person) }}
-    {{ $p.FullName }}: {{ if isset $p "Twitter" }}<a href = "https://twitter.com/{{ $p.Twitter }}">@{{ $p.Twitter }}</a> - {{ end }}{{ if isset $p "Title" }}{{ $p.Title | markdownify }}{{ end }}{{ if isset $p "Company" }} at {{ $p.Company | markdownify }}{{ end }}
+    <b>{{ $p.FullName }}</b>: {{ if isset $p "Twitter" }}<a href = "https://twitter.com/{{ $p.Twitter }}">@{{ $p.Twitter }}</a> - {{ end }}{{ if isset $p "Title" }}{{ $p.Title | markdownify }}{{ end }}{{ if isset $p "Company" }} at {{ $p.Company | markdownify }}{{end}}{{ if isset $p "Bio" }}- {{ $p.Bio | markdownify }}{{ end }}
     {{ end }}</li>
     {{ end }}
 {{ "<!-- LEAVING layouts/partials/guests.html -->" | safeHTML }}

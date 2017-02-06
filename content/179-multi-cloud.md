@@ -1,28 +1,7 @@
-# Office Hours NetCast Blog
-
-This repo houses the source files for the Office Hours blog. Hugo, Cloud Files, Etc.
-
-## Credits
-
-Office Hours is produced by [Drew Cox](https://twitter.com/drewcoxsa) and [Alan Bush](https://twitter.com/alanbush), with technical direction by Tyler Lutz.
-
-## How to contribute
-
-If you're interested in hanging out with us, drop us a line, we're always eager to hear new ideas.
-
 ---
-
-## Updating shows
-
-
-
-### Show Template
-
-```
----
-author: "Alan Bush"
-date: "2017-02-02T10:40:58-06:00"
-show_date: "2017-02-02T13:00:00-06:00"
+author: Alan Bush
+date: 2017-02-02T10:40:58-06:00
+show_date: 2017-02-02T13:00:00-06:00
 number: 179
 type: episode
 title: "The Business Case For Multi-Cloud"
@@ -56,4 +35,16 @@ guests:
 
 <!--more-->
 
-```
+## Highlights
+
+- Introductions ([00:00:00](https://youtu.be/zoV2LRzVRaQ?t=00h00m00s))
+- Hybrid vs. Multi-cloud ([00:01:38](https://youtu.be/zoV2LRzVRaQ?t=00h01m38s))
+- Ending up with a Multi-cloud environment ([00:07:33](https://youtu.be/zoV2LRzVRaQ?t=00h07m33s))
+- Pros of Multi-cloud ([00:17:56](https://youtu.be/zoV2LRzVRaQ?t=00h17m56s))
+- Cons of Multi-cloud ([00:26:02](https://youtu.be/zoV2LRzVRaQ?t=00h26m02s))
+- Different perspectives ([00:28:50](https://youtu.be/zoV2LRzVRaQ?t=00h28m50s))
+- Wrap up ([00:33:06](https://youtu.be/zoV2LRzVRaQ?t=00h33m06s))
+
+## Links
+
+- [\#MultiCloudChat by IDG Tech Talk](https://twitter.com/idgtechtalk)
