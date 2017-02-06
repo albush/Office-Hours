@@ -12,8 +12,8 @@ images:
 aliases:
 - "179"
 - "multi-cloud-chat"
-summary: "We're extending our Multi-Cloud Twitter chat to Office Hours. OpenStack Racker Egle Siegler joins us to share her thoughs on the topic."
-Description: "We're extending our Multi-Cloud Twitter chat to Office Hours. OpenStack Racker Egle Siegler joins us to share her thoughs on the topic."
+summary: "We're extending our Multi-Cloud Twitter chat to Office Hours. OpenStack Racker Egle Siegler joins us to share her thoughts on the topic."
+Description: "We're extending our Multi-Cloud Twitter chat to Office Hours. OpenStack Racker Egle Siegler joins us to share her thoughts on the topic."
 youtube_id: zoV2LRzVRaQ
 duration:
 length:

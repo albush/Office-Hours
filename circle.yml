@@ -19,6 +19,6 @@ test:
 
 deployment:
   production:
-    branch: blog
+    branch: master
     commands:
       - turbolift -u $RAXUSER -a $RAXAPIKEY --os-rax-auth $RAXREGION upload -s $HOME/$CIRCLE_PROJECT_REPONAME/public -c $CONTAINER
