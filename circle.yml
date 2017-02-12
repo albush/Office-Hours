@@ -18,7 +18,7 @@ test:
     - hugo -v
 
 deployment:
-  production:
+  prod:
     branch: master
     commands:
-      - turbolift -u $RAXUSER -a $RAXAPIKEY --os-rax-auth $RAXREGION upload -s $HOME/$CIRCLE_PROJECT_REPONAME/public -c $CONTAINER
+      - aws s3 sync $HOME/$CIRCLE_PROJECT_REPONAME/public --region us-west-1 s3://ohpodcast.com/ --delete
